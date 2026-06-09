@@ -1,0 +1,14 @@
+.netflix.com	TRUE	/	FALSE	1783291793	_ga	GA1.1.1925094242.1748729850
+.netflix.com	TRUE	/	FALSE	1783291793	_ga_KMXMWTTLQR	GS2.1.s1749941336$o3$g1$t1749944005$j56$l0$h282470246
+.netflix.com	TRUE	/	FALSE	1783291793	_ga_KRT6H8RMFF	GS2.1.s1749944005$o4$g0$t1749944005$j60$l0$h0
+.netflix.com	TRUE	/title	TRUE	1783291793	dsca	true
+.netflix.com	TRUE	/watch	TRUE	1783291793	dsca	true
+.netflix.com	TRUE	/	FALSE	1783291793	OptanonAlertBoxClosed	2026-03-08T15:36:21.071Z
+.netflix.com	TRUE	/	FALSE	1783291793	nfvdid	BQFmAAEBEPoqIZ_LDNNAesuBfS4dl6pgB9qyTd3Lrxlq9WJwnxNH-NwdemGg9K2xDUHjStUZQd4xsjtTOe1daztFQWXdrnmxQGXqxCCc8MqWHU-gMvI8eldrSFu6CxeS3Q5QgpFW0OcRltbErwmxvkeUxw9SNPed
+.netflix.com	TRUE	/	TRUE	1783291793	NetflixId	ct%3DBgjHlOvcAxKRBLlQdEYcM5hmBoIJDWYm4Rf0dE3833FPxTAUbkWQx4RVH9Ot5L5m2wwqzLLS6sHW86Q1xE5ZzjY97VMS-xfsxP-_UqMYtK2g64rAeduMZHG52xg_L3NgCZScz_mJOU2KzkuCI4_KXK7hZ2YYaEeZ7xDpHxFkAb6j-SBZo_Jr8CbfOX3EKv--LgWkb_wTvBR4PAyoXSE4-sHID500tT9wMFHBq3BfxUBbV60634KllXBnabSBc0WOkk4PFOAHKafScWBUfsccqMOPZEgrwUJYEjjANlroaHwJ4rTFDoHijwHHEf1tWHgiiJCRtFj-pTUzIbxICHeWy16-wlb64_fg6kYZn0Bj3Zk38xudwR7Uv_8iDjCvHHUcpJQr-hu_LcH80T6lgmoX0OhcXAOw11b3A4PyuLMkflJULnWDmbIalADR9rm1XVL2alpojadBgg94TpUefaSjX1mazrKr5GcngH2-lyOwnSbKAH7f6Sa1r9QSlK1XOtDaRndo_MZW7e3-5VKy11ynpdfWF8Z8f_gSarfIOjAMTSr07MQJsKXvJ8WhagCm7kqY9w8q7eKuF2ZvZpPJx_l7pTygonHn2AhsjbB6d1xQ4hLLT7-q1MVp1wzkvf6EnjrlmriGHkm_HTgUkQaEZ-dn4BWIayHf6dHcyFxvC0SQ4ngoZUkePCujMWPZaFuXcGpFFOxcoD2tW0sNPQkYBiIOCgwTPxD7lUWPFJH4wX4.%26ch%3DAQEAEAABABQkhuB364YFYcjQHaXIbp0Nph9gI8zibGg.%26v%3D3%26pg%3DCYH4M4AQOFEFZMTS5RCHGKTKVM
+.netflix.com	TRUE	/	FALSE	1783291793	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+22%3A55%3A10+GMT%2B0100+(hora+de+verano+de+Europa+occidental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1b12df3-0c8d-4c50-8f84-9bea11ab0ff7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=ES%3BCN&AwaitingReconsent=false&crTime=1772984181882&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1783291793	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLrr_MLmmy8NP3NG3j9PE0TR68P-O1N4g.%26dt%3D1775426109364
+.netflix.com	TRUE	/	FALSE	1783291793	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783291793	flwssn	0bb8befd-997b-48f3-a573-3bfbcfd10b92
+.netflix.com	TRUE	/	TRUE	1783291793	gsid	68f7d01d-f8e3-4496-aa88-783596e36801
+.netflix.com	TRUE	/	FALSE	1783291793	profilesNewSession	0

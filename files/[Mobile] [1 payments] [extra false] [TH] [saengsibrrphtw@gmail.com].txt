@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	f333e675-be11-4730-9ee3-53ad3ec854d8
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	dacb2140-7e17-4c68-9d03-058b199b631a
+.netflix.com	TRUE	/	FALSE	1789829711	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+19+2025+21%3A55%3A11+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=399ba27f-ad72-4f74-9e4e-10fa52835516&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1789829708	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFAxZPWIuljI3EeObFJTIdLqkP1ikZ2t0ec_-aAUtbTwyX9ZzykCT8m9ZLiplitK2C8Y2J58SzVCF7aaaIFWHAj5H02mewOmHtCL30sXdbLMw5B_owg1J2CUZiPVVCWw77P4qd9k2b92diB-AB9LfswFvUaa9A3Id5nSrWj8O3SmWPj_2CwRu34F5Ah3bJEjdUY3-z3zhtmE37hNWVJMGj5LGWBoFO9hmL1h4xf6_pc-Ya-8dflXk6GI_oCe70IMvlP9a3NeOidLYa1gUO2e8urfmjwW97r1Vc4f7KhJmwxUj_IXrpQ2AaoSV7ejc4vGuYzsioBuyBel9orgbI05MRg27J-D5RW1tSrlbjJ6honbtED93pxRC3XNwpTTGAeVtas3lmSLooC5Na6TuiaXzmqljFhMPrh-bW5FoKbG0qL_4eU4tyS6uzX8YOfc9fIouKGUxbECdaL1bicIK-TwZHNNlE2W2sir4U0YI2KU2sjmluEy4rfThOXpUaL-5AxADi8IoV8oQXGAYiDgoMvEZbaQig-gz_bB77%26pg%3DAYTPEMWS55EKZKE3YNORU2B27E%26ch%3DAQEAEAABABSIsi5tDKFsg31Zpg0vf3voh-kFqw4-fdI.
+.netflix.com	TRUE	/	FALSE	1783545571	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789829708	nfvdid	BQFmAAEBEEmJA1rH8CtSxFt_sAKt6dJgWcM2nJupkTPtLd6iFxL_nG7sw6wM28IkaFCAozW92mpYOT5tkehxpMhpuqCFRtplsJYdjJOU8TxLQUpeWKwvZfYJvInMW1JY_AnJhbq8Z95JfuFne-pFoOROQDKvxKrm
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

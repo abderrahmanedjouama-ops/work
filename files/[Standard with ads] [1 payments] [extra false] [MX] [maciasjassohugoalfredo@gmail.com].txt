@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1795161258	OptanonAlertBoxClosed	2025-11-20T07:54:18.263Z
+.netflix.com	TRUE	/mx/title	TRUE	1798185304	dsca	true
+.netflix.com	TRUE	/title	TRUE	1798185304	dsca	true
+.netflix.com	TRUE	/	FALSE	1795161303	nfvdid	BQFmAAEBEAqd_dO9sFJcZy1Gntw90aVggCYRijEHzGwYQM2iX9o9TnuL6I1g-wNfbal-SbAZGT8J7J4SAmxCsWfpCU-OMDT3zta1MPz58w8-owOUTslevPBdo4TD3IwNwXu1Oh6qnYPCcuyKp8jsmWiHlgI-yTr2
+.netflix.com	TRUE	/	FALSE	1804501197	dsca	customer
+.netflix.com	TRUE	/	TRUE	1801896016	NetflixId	ct%3DBgjHlOvcAxLjAwcLOdknYFbEVQzU7rtzA0abbeBNRn5Hkw2VMuHRbUKc91kyEcsozbDaoeZcudZbJ0Id_U-ILnru_J_TKotGvyvEkg_Ofcb6_0rKVfE0gPJHkIbgZUHJYBslaXMwB4t6yRxy62fz6iGqeQvrel_bMsN6Dd2-SAVXQjgk53iemScxcoABlxb9oHL8Lq1XO5stnb12SALYZqlof_CMAFmKnT-cIG2P64e1Epd6beZiDTsJ3br9zJ_sv_INgxGc9sK2rN6gLiQUAscDOWrVcMi64JaPjZyioXLb1lrfKaWTcYsud3wQJUhDqIbJkzrTHURPqWUleu8frR6SbQniJQGPEcqrbu8cn3hu4fxMowiW4WNNQIljw_MABCtTXY2gPhm94hgzlHHAhsfSvbmMiMtDCCwAne-eouwSZHnSFk-WZI5eIJOwPjRFYMkC8JbHu22UZo-7CDx6fPvlxLAT98-doAt6gvdE6VYcyDu2bTYqZkKLPGiLxIIMsnkKeQTkyxumjCLF73AFAWnCcVrryCKBHOWgTN9ryD8nHOBvnNiiWydN752VDcnyO3yNCRoeY2v98PPQ1xJZdpMJJ03KYdwwKsuPjjkFKFPIPWc4Y3aOl7cXdrJFAndQ7DVI_bhFnDezdP52rhgGIg4KDETX5EqXG6HhszLcRQ..%26ch%3DAQEAEAABABSuxHS4BImI0VE3VtEPZT9o7VOw9KDDHns.%26v%3D3%26pg%3DZWTYLIV5H5CURNTBMQNKPRXHYI
+.netflix.com	TRUE	/	FALSE	1801896019	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+00%3A40%3A19+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8ab81543-50f2-43f7-8f8c-8ae218c4148b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCOA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801896016	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSC97XC-ZcLs_IXoxRIJdEd0ycuNdauiwo.%26dt%3D1770359911010
+.netflix.com	TRUE	/	TRUE	1783056510	gsid	f8eb0dc3-1fe1-4885-97ba-47f76575c818
+.netflix.com	TRUE	/	FALSE	1783056510	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056510	netflix-sans-normal-3-loaded	true

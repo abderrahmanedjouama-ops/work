@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1810173119	OptanonAlertBoxClosed	2026-05-13T01:51:59.628Z
+.netflix.com	TRUE	/	FALSE	1810173180	nfvdid	BQFmAAEBEHHgSpWJGBHM4syUZ4TPVa5go9gklg-B_magkGNn8D7aUXlibDstoPn05LuumWXTXTdGLNBN6b5fs3Ey6KxQi57gJ1VvAtiF3iExl1N9-GGBLiJuSThssgV4Mt--kY50iwmzoxh8PVxnYVZ1FS8zMtOp
+.netflix.com	TRUE	/	TRUE	1783545570	gsid	64f17be6-2fce-45cf-87e7-69913f9e541b
+.netflix.com	TRUE	/	TRUE	1813439610	nap	BgjduevcAxJJIK0ZOCmyQv55JuiPZR9uX1TCo2z34yOZg7jyBXi1zyT3W0tB7VDrQ1czRbwxPDsvr7D60QIFqjLQyntQgaV2wzVLhyhxAaQOYBgGIg4KDNgw2iAJN11YG5nLWQ..
+.netflix.com	TRUE	/	FALSE	1810453993	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+04%3A53%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=af907584-3e70-402f-91e5-b6acc91656e9&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778637120169&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1786693993	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786693993	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786693993	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1810492855	NetflixId	ct%3DBgjHlOvcAxLNA49HhNQzDQgU-FPpPb6tSeW0e5_himpDKoMLRBtpjG7eFAvdrDm89sW670RvC1k7aiqvsG4cock7gxnkQIn2nsk7SJgS50NLzeOmFuZU8WK2LGIIU7ZSoA79WZ-xSZNaRK0cDfc0JsaP04MhRBTjeFOg5eUQ9Ux6Ht8DS4mGV9XrPhJ-OB_P3K2gwy-be-rC_BlGl5YuEvdfhqw-e3LvZgl-HEYcMNaodF7OJ5ZeaKaXrVd1KOqkmoj1dGroaglQVu3Bi-23N4mKYKu6CA7RkmriOND-Ur_8jaRzjtgAr3nOB7c8srxPPE4HPMBUMc4Zxr9Ajb9G4rmvt0geUWcccXCjgg6YURvPDuWNxoRlnAYKsozlC1LF5mi-x5jQKa1KSjUCgz4NyLXD1-PaCgD0OuxLWXCTQG2eRRtg4dOAVjyBXrS7B7d26QhlOq9V_l_rud2p796K7tdwnq2_jjN2DwqvdJANB7ugOLyzIsl0nsKe4oPypinRjZdq6i8f3TWzclK6V3hCV0cIEHa9PgkIiRI2jmMNmbPfVsbi6p8b6aBtHAIBnIRH3h9ip7dFiERG7UzNT7nb7jaYC4wGrM8wUSo08Fk2KCzx63SSd9uEGAYiDgoMtfdykUPB1QfZTyBv%26ch%3DAQEAEAABABRaUeYWYm3HSMYDy14hPhPVzUDtMl4JA7I.%26v%3D3%26pg%3DYL3YT765SJDHZKXGOAY4MAVFZE
+.netflix.com	TRUE	/	FALSE	1783545570	profilesNewSession	0

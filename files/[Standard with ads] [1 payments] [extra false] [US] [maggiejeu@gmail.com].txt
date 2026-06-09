@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2025-07-24T20:09:59.883Z
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEMJK8Arzwg2vVOdF2RZlA9Jgz1YSToLpasoynBgf3xILL9wgELRaUNICW1PUxpqgAENcNd-lm4__CpdUY49No_2mo0RAPWLAlTTuPQ1miAGzUwtcBgwj-3bVDzXH2KVWJfeJb-f0qwa-WMahtTXyvnbW
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	ct%3DBgjHlOvcAxKFBMEi0XJyrj2vo8h8wohzelCCn3Zlo0CmBTqVuC2jS-6lzeR4oSb9mbdN3lUys13HvkTeapgYjz6Jym1tXBsOwnJS4Uwh4wOqPqBrSwSzC-HMDWubP2uLfrqHQjY687TPnb9YdpNOn26aAxWb49OUkktGXuG-BZctTyz7X0Y5KG6Ovf2QwEz37nc_ga421Tl1YsUKeHlNxxo2QIgnY2C2FiNLreNPmqhJfvv6xJIJ9RY_ae9_ZAoKxpPMAVthr1sd5z6tRw01BHIKq7_C-MfvafwCo08OUvb2owKiTFd-SQ5Cf5EFkhCfj_lkklg-8GpegoqZBD8iEg4iwgCLgVmiqj6insVC0h_PSOCDyBZOolMgURsgwYgsQs8RFKj5x3s2xKX4VA5wYmnUeC0q95gBnUannLqAMF88LGf2aciV7vDg21nax7VtPmdHG9ljCQRspUUkA0eUiAVzjYJZSec7C1_3CG-x4jiWIlBn36OfpiPjNUMryMD8292IyKlSOM3ddyjpmGusivZXs1r74LHseGVwugQfyWlNB0CHYLx82y7JuhmzoI88MTFcx_fZWtZjYDiiXVmzo9fauzpKxnKbvac8kxIhmK99-me1JEu15fQAfKSOmlYCK5OTcSHXxT2k6VIvO8Q1CqYlR5mQ4iRP9DBMmWxBawAztBg1RLDfLNFI6FgyNL4YBiIOCgyaKYWqTFctDiG1JVM.%26ch%3DAQEAEAABABSYg-iYM-oBgTfpU0CEIVc7ApaoroQuGYU.%26v%3D3%26pg%3DWGP4SGY47ZAULA5O6DFWMGLY3Q
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	71f54467-d561-4fa9-a1f8-13f4f4ae6518
+.netflix.com	TRUE	/	TRUE	1783545571	nap	BgjduevcAxJJHhHQUswvKooMWcTfwsUnPa4-2aRtXnZSMPWjWM0oMbhG3RDE1UHGv5J-qEAI6z-cwktph0-f9LOhUKMhvcnSAfSNDyDcZCme4xgGIg4KDO1tiMME12x0_DhA7w..
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+20%3A44%3A27+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10fc7fbe-c2cd-402b-a48f-6458fd2bb4ce&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B52&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

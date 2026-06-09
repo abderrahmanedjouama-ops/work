@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1796733727	OptanonAlertBoxClosed	2025-12-08T12:42:07.603Z
+.netflix.com	TRUE	/ch-fr/title	TRUE	1799915162	dsca	true
+.netflix.com	TRUE	/	TRUE	1802425535	dsca	true
+.netflix.com	TRUE	/	FALSE	1803558864	nfvdid	BQFmAAEBEIX2HqjIep7K3noyZ_JRvJdgAytP1IHWSo7rqT2_XkFqxecQB4utbd4PKS6zKLgIfA2C-KSjhH0wGvx-Yo1m1BH58ndd-QWHJBjvaLSvAOrq4rma7F4rqXBZsSwRKeqh5W6e55_OYhp_ma7bvhOzv8fW
+.netflix.com	TRUE	/watch	TRUE	1810713430	dsca	true
+.netflix.com	TRUE	/	FALSE	1786272812	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786272812	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/fr/title	TRUE	1813298747	dsca	true
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	2b55c240-0fec-4257-994e-78309fdaea74
+.netflix.com	TRUE	/	TRUE	1810274747	NetflixId	ct%3DBgjHlOvcAxKGBLs90s7haMV5ZUOZHpRKvzUp0XjuSOaVDnkBrrR0HaL6MQv4ZoSoQuWkHv7vgDSiLVTW9EuB7SHAFoi6aBCHM4qtg6Y0XW-HVQX89kXBwKz_rfLL9dMi3ZnQ9NDvNmMBBSUZR3jCZkEPIAiXLju-tiY8pbONR9efssWL7qJsJY8I7z14-rmuHoNvl8HHqFjqYzXgrb8JmLVm8JJfVI8M8SUx0jjA2DBA6QGyNXSxe5pu30M9hndKBM6SyCLBO6fqF9nNrzs24IjqBi_4Q0OwXXMm0oErdWxzjVhtFLGM66RTXkDGOs0MhzyygjDCQag6onKfHBJZ2yUfqYtpwFfe9nfJojYLS6lAoYbgpccpt5WjORC_UvKJjQezKlpOwRyeNkJNGWhtEImmsalCivVcHlSJw8M1dJB8xSM6_o0yQ477C0v1874C2Z7I-FPq-1D0IFfj3LfBGuioYkfKuoTcwrBBABo6BQvLMCvGtUQotSNQwpw4CL25ncByWNSR9uCH0T9mxwf5dh8B94b9twNgWsi0YnQytE8t4BLXlm3sdSX95XtduyVC4Dbh9LtoWT6MxZ0h5vrN-V3Ri6KTXMXdfPH1eBLC8vN4jBrLoUozfE_npAwKvF1RR3Z6APXLRLTJJEddn0Awnvao_tyhClQu6kQfXwHN9rpIlyUVi-dceQ-JnuC3zLVbGAYiDgoMAngdDjTEDcjNygic%26ch%3DAQEAEAABABTDjRJPgSOMktjRZssBzNMgjYh3S-sSnW4.%26v%3D3%26pg%3DKOOMEOHWORBH3OHXUQXOGAZH54
+.netflix.com	TRUE	/title	TRUE	1813298748	dsca	true
+.netflix.com	TRUE	/	FALSE	1810274749	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+08%3A05%3A49+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a63bc3d-2364-439f-9c95-6b3d9051fdde&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1785763680	OptanonAlertBoxClosed	2025-08-03T13:28:00.324Z
+.netflix.com	TRUE	/	FALSE	1785763710	nfvdid	BQFmAAEBEMVpxTXuTTNNDQ5SQXPe1qtgMEgeMVMr_jE5eyNrrGMhmYHisrQny4ioc4Vs6s70kV61yC5Gcvhe9GtpX9Gl7VVkGy9qBlKoOoM16-hgZXZ6BBqpW4PZvj0NbGd--Ktv-IC5POE7ozTnEe-X81ErvDZE
+.netflix.com	TRUE	/	TRUE	1788117556	NetflixId	ct%3DBgjHlOvcAxK0A3A3bnXqjYg_9zLbnmQ-EifDpuAeY1myEdhqwwYKC1yb0-C-YAe38CdKi265f2mKjBfF5Op3CNpI_YiMQUzGf84ck-h3uaApZkD0COOuokPy3L4fPfh0YjGkyysvaAEH34BWnseQcjGWAu8JxJSBlZs_C23vZbQRsyS4q1zizHKRxxEnZcdwMOEujJiFP6l59otanP4QsbO1zzhlCxtFM1vlL8VfAn9lRQWqqZkhXe9NTpEtPx4BSBgvq7y75TTLffK5-7DW30D-4E-g1CPPNiK9h4MDlo0cfYAJh6Gf2ZGKUg8c6z7DiCueETjMUjTxPCaIWO6P2uJUxDyWedqaIBN6up8c-jmAY5cuURPu5vaGbcJbn7UvPU-mveeZjokZnJ5XWy2ahJcluz5LZul_f1OBptWMCOfW2NiJPkYGtfm3UDTUrAXCLCuoZAarGGy3SxZCOpWTOf8Q6Jhl5NeIwVy4QRqqYvIqTZ7aikqbiwvqG7MEoZDm84wmRlj_kZHU3sKQM_H9NDdW7GRqy-CgTOA_JyKNv5k6XFUHumRIPvwbkmYzvaUDp_aLj0BzI5EMRaa3nygYBiIOCgwxHBleQjL0XnsY2A8.%26ch%3DAQEAEAABABTLo3UnPU-AT1wgDkBWBHNWej300YRmP7c.%26v%3D3%26pg%3DVCC22MYPUBGWPPVC7UJUNO2DOY
+.netflix.com	TRUE	/	FALSE	1788117558	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+30+2025+21%3A19%3A18+GMT%2B0200+(Central+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50bbc30e-631c-443a-8a7e-3fd3a079f369&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BE%3BVLG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788117556	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRyNJiGWrSluGH4gAq-fCBNqp_-KVG1Vyc.%26dt%3D1756581557253
+.netflix.com	TRUE	/	FALSE	1783545570	flwssn	cb017eff-07aa-433d-b4e3-ef58cfeafb8d
+.netflix.com	TRUE	/	TRUE	1783545570	gsid	e875ed57-fc83-4fa3-adc3-bbd6650314af
+.netflix.com	TRUE	/	FALSE	1783545570	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545570	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545570	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545570	profilesNewSession	0

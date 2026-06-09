@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1798936385	OptanonAlertBoxClosed	2026-01-03T00:33:05.416Z
+.netflix.com	TRUE	/	FALSE	1798936394	nfvdid	BQFmAAEBEDzry1B6GfSjlV3D4GAYEEZgZuzX1xFpLkr7e1z8hULf1lGlmZOvXtm5wB3UX8w1orev3kliLdvNyHX38lyhhtn035zLRnV0vxMtLbb0q5i_6wj3lsTHnWmVp-NPAq3O16sN3_j4MIeTxgMlDdC3N1DP
+.netflix.com	TRUE	/	TRUE	1804090637	NetflixId	ct%3DBgjHlOvcAxLfA7BHWifJr5MDHyM145jiNtmzhvBtaOmYEadXCIMLOrlot_NtGI7gNombpDzrfvJvcWP6TwpNbFNQoNwug1ae64sIiH3McAnsJdm5_tpwcrglXIXs9tCpTFcq1aeHPulOjraEGmCdDHeNfZApvoas7RzeNXrkM5SxrImOs5pQDqKXsxX0hfGbn3ovD1tlwgb6Lk73n0VRZgSXXIjpcz0SgxNrnyDMpyzP1TyYXP_R4vBTEJO9h2gRRvzwQu3TGujgmpbK8KIbjjvdABmgrQ51NmXzRBYjuJ6S1vJ9f3r-E-N2LqjGc_0N1jKC9hnz-FBd0w8cWKRzXtK7qDAoc53UAz8jhcbYnbnyRYeF8cBDsQks4n3AFZZqFmHm_eUgaKdPDyoTecPux29lzpVbqPMNGX3RBlzJkvqvAva-SeN5oWDq5EVld8lP_jTzQciSAiWIkJJnc0MNYQMaG8lhGzbpP7NfqGFxcTD70HFEdPMveIjkrIxuAq3F6wwNNUBhzwvW7q8IjyfsSC9TTPp3neqx-SzCbsgfgT9vQa9833rXQ6foUuWTkp8-7y1tbjqxHEIDMODn1OMcBtf6z-YOjKrqgYJKNv_Ui1XJoabb1mpHRtt-c3bIkePZNOTpZQj8algvGAYiDgoMTa99nsMsJDdV4l-G%26ch%3DAQEAEAABABSQbAd0CSem3AHAysaI3oHf4lqRHMdDQW8.%26v%3D3%26pg%3DYQFHMN3BDBHQ7ENPHHL2SKIN44
+.netflix.com	TRUE	/	FALSE	1804090638	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+16%3A17%3A18+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67ad01fe-b5b7-4b2d-bd6c-59edb3e7956f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1804090637	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAvWEEl3_YtJ2b3cFkVq_Y_kPIKz_zJeE.%26dt%3D1772554637351
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	008a91c0-b635-4b38-b9eb-7002f9a83ef0
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

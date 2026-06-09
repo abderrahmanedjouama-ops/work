@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1810190197	OptanonAlertBoxClosed	2026-05-13T06:36:37.441Z
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	6880b2a6-4b8f-4339-981b-68f6f6a8a47c
+.netflix.com	TRUE	/	FALSE	1810190492	nfvdid	BQFmAAEBEEO_A4kjNChNVkIKAzyY_R1g4TeGc3cfgV0FIc6X8n8wwvbmQ6jUTxq_aukQaGmyHGiyG6owhO9sV4_IWBDTi4P3yl0B1evzcC5AUtmPvSiujZxWiS3xqpGZj22bvmMKXJIJrp61hcY3VVZwbrZfKC-7
+.netflix.com	TRUE	/	FALSE	1783545571	gsid	1597b17b-0744-4896-ac30-4beb4f2a286b
+.netflix.com	TRUE	/	FALSE	1810359982	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKnAzEtGVRW-5b9MWt0oCurjDQ8aCkBf_-mvNe4rHXKsNF_EW9RTX44jCvWjOpiYPx-8AFU3H1SBG-4QIH5M2-JdE7P5GtFG2F2dlmKqtUjX6G_TMDPT3-UTQxtxyCou6EeMwYM8uusCtbaphaSjGihITstopsZWsmIElzN05ymGDfVS9EmdwnfkN5v6XhFMMB3rgcQ2KzjX3k_hJfAHdhThHGyOOpQTunzXRZB-nYJ4l0xxFzHYJWDcZsO8bPGWImzGSxkOtGe-Lk6UVVlBMv4UQnaPEZcxONSPJ2jySw1NYotjq_P-4uA5I3DSkYOM7tasPQ9YMp8-fq18hUODFC0zye85dsL1GOKM8431V1QYhvhDe3cnsbluoBgrYhu6NYhDZPC_Q81fT4mkqTSTOgZfGBbZO4htQ369qDBrpM_r8Yyxnn3V556OemS0sFJ7PXqrm08af1wMgQKnYjMZ-mWyM73yFOpPQ2HiUagWTdzcj9-pRM-SCUoHinjjjbtt9bfuooXsJhF8N6qR2Y05j_O5vYvJzPlu4GTCSAitYWufx2Ywk2qT500_BgGIg4KDJVE9g4IJIQ_bdA8mg..%26pg%3DQRMPXFFFUJAINJ6ST5QYG4XL2U%26ch%3DAQEAEAABABRrIjJKffTLPlguB-hFPMt-9ewkBqVe2ZY.
+.netflix.com	TRUE	/	FALSE	1786599982	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786599982	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810359983	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+23%3A46%3A23+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6de5dbba-8a6c-44f4-a5de-a7e01368401d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778654197759&AwaitingReconsent=false&intType=3&geolocation=MX%3BCHP
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

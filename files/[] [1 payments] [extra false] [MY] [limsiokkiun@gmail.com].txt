@@ -1,0 +1,7 @@
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBELrf8A2bb7aOdzY_K7fxGcJgBL1ATNSeM2oda9ATfpzC_2Ku-P-0VO6JuUkpFKmI7ksanvaMGUfVX192eGBzkGjVD_uBYQmi7yPgwpiSoX9I9hfO_Q_rqU1tD37r8GyfhJg49x8wowoGjg1IeOyLVzsp
+.netflix.com	TRUE	/	FALSE	1783545571	gsid	4d0c02ac-2476-44fe-a61b-14253ad8ff2e
+.netflix.com	TRUE	/	FALSE	1783545571	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AmyFbO9adAa4Dh3WWeNa_S9IvVs2YXudcIEqfJlWseiS16yRLNvr8AzNUFxUxL9J_7efNy7rXBRwbDFncOYXKeAOqo86MvQDGQiERWn9HzHCuXD3va7XdZoAGBJGZ2nx-Uw9ETrLO-ko8MjCbtB0oOW9curz86xKyFc-KPWnigVTSh4OcbOguG4oTk7WfniaTeHKIjkNow_Rf6OFtYdBOKwAEAExK578oaTIg6jPr2yUdtjAjGWgso9b4Kcz-CsIifgPNbPoMOzuCGktcWuWKZ5BuOAl75qhLSrCGNu5M_TXtnsbY97pCCx7UcjqxdaDv7LN8s-Oz72zMQWWalSmlCqQgZP20tYjAgP8kbC04M-ckfGlQXWsxnBfm8e7sI-JyQnjZL9JTIhXoty0w8PMvvHMZwMjXCDrXfZQLnprxa6qHP7RtwbTNHw3u_92EYSG78teZW_AtO2847ZC8TX5fPqEpIxB-UBF0jfw41UKuor4QxDHMCq4eBgGIg4KDPn9e4l2nvObcmzQCQ..%26ch%3DAQEAEAABABQETl4xsHCRZoDNcUXC134RYAbuf3vLOU8.
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+28+2025+19%3A34%3A50+GMT%2B0800+(Malaysia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a9da468-ab88-4a1d-834f-b3b133795f99&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	0b534f59-6fbb-4544-89ff-0c950583a52c
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true

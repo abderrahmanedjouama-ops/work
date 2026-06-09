@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	2352208862	flwssn	21c11bfd-9ba7-4c36-9ccd-12bc57a363b8
+.netflix.com	TRUE	/	FALSE	2541670494	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEKEhhjIybtfA-qngDB6NGjpgU4eZ0-HGhTp-Yq3F2awunSykIJZPbL8o1FpEAfqN3CcwjxChxpGcYde127EeVP9rE2vMTVmmc8_GH-TICmdVlmoNuymek5tLLta46BeNOLFPpgEGQ53E4ySssTEWdQmK
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2025-10-16T16:25:12.714Z
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	3975420926	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1965617150	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfKVlPvu_uw_bI3MAKOhFbOJhKCQogtDk.%26dt%3D1765725947393
+.netflix.com	TRUE	/	TRUE	1965617150	NetflixId	ct%3DBgjHlOvcAxLlA4otXy_tX1x3xhZnmrzEhxhg7KzTxoePP3BHrEMi3IUGigD8uxGK2rGKas2W_SzkAoxcQwBLM1p791u3u4dGKAFDK2mYdQS4uoRL14nupmuK4iUXta1rC4WgBEG4kVZrfLBYRKOXLOSAB3eRMglR0klqZXoFA60FQlXXKhZbfyoDj02TC-frgn2LJiDjRgKDqOPFQRLN5B1xH-Wr24OANAWjgoAdsqStlh36TBdVsk8CP3dgzBKe9E0nq9uwbT7en6bhsAcOk_WxR3gndgNP_UZn1wbOQPbPUX7_n8uovsFGfch78e8urePaYtVAZk2W1tNvKV1UFr7i7239gbw_OZf7iNmcE0Q8LGSjaZPEY-9Z8Bdl6k4rnLEfihoZz7AqMm4KHBlGoV9fbd3YQPxPNWPsb7NNIrmntIR3Har4pYbNakmKd7KF78wHy5XGJByrNZ066yHjODnQnTRhmOUyPzga0jREB4WVDazBsfBoRaZFwONGRp644KVZBav3llfgnDHTJ6HRVUtXFIdkxtDEytVB0HRaWzmIHBeR_RAH2hMUdf_-dziABc-bzMWZqE8LUCiRbzdEwKMHlLUsWzKDgBrCati09E6UKewlKY0FJ5XF2Lc2J1IR7NYawD658BCmGyI7ZV8TGAYiDgoMI4A6kbvOT8PqSkpw%26ch%3DAQEAEAABABQnrphXOptquj3p3SkQPppsLydbnE_celU.%26v%3D3%26pg%3DV3NJ2A3G3NAONHMJQ4TP2CZDRQ
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	82d978fb-dde9-4282-8a0d-3215b2c091df
+.netflix.com	TRUE	/	FALSE	1965618272	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+14+2025+16%3A25%3A48+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=495608bb-9785-4aae-9be0-38e1984d5434&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BGES&AwaitingReconsent=false

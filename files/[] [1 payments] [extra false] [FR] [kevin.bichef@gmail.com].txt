@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1782591518	OptanonAlertBoxClosed	2025-06-27T20:18:38.592Z
+.netflix.com	TRUE	/	FALSE	1782591557	nfvdid	BQFmAAEBEMWS-sxkZAUqjOfmU4t-AYdg1Buuq7F5qZgu_5f5f2lbB95_LmEqFYTOBE4z7H0ny8iBhOptemJZRTajjeEVwOT1CkUX8adPFHO3iCnhTdjES6a-HOEm8wJdrmWc_XVtWpNy7IR-RG6r2Q7TH3PvsmWV
+.netflix.com	TRUE	/	TRUE	1803667549	dsca	true
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	66f5f7ee-c787-414a-8547-4ee96e82a148
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	923bc025-cadc-4a72-91db-676eda0403ee
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1800643564	NetflixId	ct%3DBgjHlOvcAxKoAxI69VsgDpa8Aqb0r54mtAdXAgYKtek0vjjjtpCEyP378aleb7vQCWkgZVT0tLm_iA2YfO5Ovfs3RVy6Bp9YQPfOcV6poD3MO9XFb68t4G9wDA8QT8mpGrDy1nOEu0ABmoktoiAzOG2zQyRASncRN5wSbw6qeYBKpeCEKCy19N3NH6n2jQEYFqUr0BY2ZSuzPbrg328MdOnUHrdqDBE1y8gNc6ZVDpuDcx20u1rCYOanaVltBSqFBAi9WMa1hpxOx-SlK6XYnxhHQ9s_P7OSXFnhwcQXo3oGHo9hCLiK_PJjCUMU3lw0CPonJA2ebYlz4PqFDaV7JSBs5K_DU3jF4AlvzlaWij5rZ2gk6RvDmz-stkTWa10ikvIegJdXPGpL7_D_H0vq71U-yhSVQR1Sb260IvVwoOF9FAwrTjgrY-mECKP9Ve9QONnzT_URkAgexCmV2cIra7UgDSBKOTlkgcBjaZT7EiGFN8scS0m1Gyv2Niw78NTAbjBnsvxTRjqBI-2QXwESy811I4GynTlb7jZIqrm2vQrQY4aPR5bwrDRFkZl-ZOZI3poYBiIOCgzXP9bWRDIbsOb9to8.%26ch%3DAQEAEAABABSGd2Y1-4-EKU5VteXSWE3QkjH-NxKWTi8.%26v%3D3%26pg%3DCN7IFKHGABEDLJBDRJCQD32TQE
+.netflix.com	TRUE	/	FALSE	1800643566	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+22+2026+19%3A46%3A06+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7648a345-b3e4-464b-b23c-075e26e118a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800643564	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXz9lm96ARws6GbRuzglTHjqF8zCHYEjI.%26dt%3D1769107562362
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1810133171	OptanonAlertBoxClosed	2026-05-12T14:46:11.549Z
+.netflix.com	TRUE	/	TRUE	1813157458	dsca	true
+.netflix.com	TRUE	/	FALSE	1810133457	nfvdid	BQFmAAEBEM88hDwpk4n0HKVPbAwSJm1g_RB6D-RdDGFPQwl9-hSn1sWeif0FC3TM5KJ7P3of3gX0lPyEHaDDu9Qu6DlUu2F_GfBjD6uCnmiKL2IzUeAfWEJPQt7S03fYpmYDmS7MprZT8VyFz0c0aaVkOoWG3D1S
+.netflix.com	TRUE	/	TRUE	1810503004	NetflixId	ct%3DBgjHlOvcAxKEBFQpNlNibia952gLhRxELh5jzLMWf1hbCRU337tvNbZ2eaNUY0VfxJQhUqPW9IISaJAZ4ZiEeMLMfmRsOBNP2wNnWMnN1KX_id6r4dZhqYr9hOk4SldEKPwh-S43NIDy-cSDAE2NPUwgja0kpdQe-h7FRaFu3ZLJUOLbrwPcRGxckQQrXQHsLASXp_wrL9EmoEGnYQEyl5PKEzkgobm3CLZb8WmOxxQ6rYZQ9RnnAm4UBH4ghiA06-WWxkpIP7PsnNkJleOCKqIi--RacQPpxXGhqj5RJMoyKfc3hXd74PATzIfDfSUWAaioXjYAzVCB-5MkJij3J7tBjfsZCbseP-pnXLLA1BuPbLZJNMZFxGGYILPYavRxoo8ziDNwVghWFcI-JSHjRgnzGKB1UUetAVznkTxXGfa8a3vtj6CQ0EZOwfIjTM2_77DvUM0Ycg8fAfhXoHy7oE0rbxHdHdPSbFU9b49_QHq2BpvldC_e_mHHal4tCZADy7rA6abwx2au40lgEKKzf5WcvEic8oRwEWgNca__ZR703QfgLnm8Jt1SgmOwPQMq_3n3rXoqYBVA2o1LF6pdUEnN-ViEaaWcGDE7Xp-tEEUlDEvmcnV71Frxev_lm-fR8cJwn1qRyCPrNSA6yEWDAfOlfxCPc5smWJWhC_rDPgwLz3H7yoC0IkAauSn6hhgGIg4KDP5UxNISWhjEjSZo1A..%26ch%3DAQEAEAABABREHdNWzpoCiXl5l3FnzpfRMQO9bO4z2UU.%26v%3D3%26pg%3DIQYQNXVAORELXAPVEYA4UBB3DU
+.netflix.com	TRUE	/	TRUE	1810503004	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdfqcfpff9un0wjuZUD94OqBAu9hQfRu0.%26dt%3D1778967004634
+.netflix.com	TRUE	/	TRUE	1783291795	gsid	ba576c5f-0b17-475f-8cb7-54511bf1940e
+.netflix.com	TRUE	/	FALSE	1810503709	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+22%3A41%3A49+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc6caba6-bc6e-4cb8-ba38-65bd46cf02ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0&intType=1&crTime=1778597171938&geolocation=PT%3B13
+.netflix.com	TRUE	/	FALSE	1786743709	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786743709	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786743709	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783291795	profilesNewSession	0

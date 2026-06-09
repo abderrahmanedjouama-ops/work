@@ -8,9 +8,8 @@ __pycache__/
 bot.log
 user_data.json
 
-# مجلد الملفات الكبير (لا ترفعه على GitHub)
+# مجلد الملفات الأصلي
 FREE_Netflix_*/
-files/
 *.zip
 *.rar
 

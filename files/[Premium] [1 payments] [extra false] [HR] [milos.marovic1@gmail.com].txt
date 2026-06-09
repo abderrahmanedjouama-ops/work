@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1786919571	OptanonAlertBoxClosed	2025-08-16T22:32:51.813Z
+.netflix.com	TRUE	/	FALSE	1786919800	nfvdid	BQFmAAEBEIAST2paAr2IZjsV6JbXswRgeAYbAZXnfZeibz7_2nS1T544ydefYqkH6CP2iXxmCHM3FnyezqWo38lCna83kR4JHzrOlr5YUnRsLm0rYcxgi9G6Grdk6SK-VqKQXVe6TRkjiXg0bSjxZwP8Razf2Mc4
+.netflix.com	TRUE	/	FALSE	1790157502	dsca	customer
+.netflix.com	TRUE	/	TRUE	1787250252	NetflixId	ct%3DBgjHlOvcAxKsA3Y2Ze4fFxsG4YWdpudeyZETQdLHrtk1Vth-CM3XN6-gcQM3F-iZUJIBojCpzLYwhfg_BX-VBAZUGuhpwUzfYs1I3jq1tK1GbuPfBggkVHaeia9_aY_iFurgFv15fwWNlf6t0yiHgn1aX4emN6AE90CBvdejO1_6AINvl6XB6RchQyNGlkU6dFxI9dnF8I4yAPEwQKZsVhvjrDhOXDVnbUEnnSslhExqs73bwjs5OYb55w4vesEUcGjhAbEjYIHHLG2tsOXoUbbbF5c5Is317ncdPKbhdabrDJV6eISXcatd8zN68DVtRKgWyG507_bw5CqvLCwxT5rKz1gHjVqEhKUdRfZceMahBESiC8jatZ374GtSjQ6-arcs55AB6CL2IdmucFdklVon_q_9tqo7arzNYW6u_t8e6aZY9DKozHAquzUIHAeLBPYvCeObNTfcNtmr2fI_c8T4tYzrwONS_6fg0oTXj7L8kyf3_ZIH8OcWrpq1RDV6XHKHiVMKVatOtcmEvdM2v_5YcnE55oqey4phUMtvkw9dAd65Fl1nd6rkvJqVmtQaQqH1XgFvGAYiDgoMDrbcdG8saWZJjkgn%26ch%3DAQEAEAABABR6rWoBgxrDnyJTGD-jp80nAkRkNbiblG0.%26v%3D3%26pg%3DYPSDTGYH2JDWFO57EVDM5IRI6Y
+.netflix.com	TRUE	/	FALSE	1787250253	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+20+2025+20%3A24%3A13+GMT%2B0200+(srednjoeuropsko+ljetno+vrijeme)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=64b00fcc-0284-483f-8b7a-9993dec1e728&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HR%3B17&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787250252	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRM1B9Fopoj9G2lDexSafuFO8udUaPyfTY.%26dt%3D1755714252567
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

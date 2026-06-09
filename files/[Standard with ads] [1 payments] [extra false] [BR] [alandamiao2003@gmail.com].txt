@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1810495109	nfvdid	BQFmAAEBEI0xFn6gYKQ3jy0a96GAZ49g6b1R6YjAFwZUeJdHJsW8-2J_TwbQxk50iooy0moHiKD9luHxKSDrstH1n6C6IbXEZO5ojJY7F73j6iX4ch5CwKx710qYBRTmgpBdl_WVEkFXyhuPP-fsrvkKWx8StC0u
+.netflix.com	TRUE	/	FALSE	1810496200	OptanonAlertBoxClosed	2026-05-16T19:36:40.785Z
+.netflix.com	TRUE	/	TRUE	1810579022	NetflixId	ct%3DBgjHlOvcAxLBAwL-zRTjbJ2IOYNOhvCsCSiYFF6t5hrd2mQQJIZMLP7MOVVs-70dqm9Ekk0HqGTSffTiGcQZMPDAGi4WMTX8Ci8cJMUfDik-WVmTkpCfo3jExKTYIGgV6p_DaMqnAIAW3LEfyKavF9BHfNX8pG78gu76YaRpNjt5FCwtTHmpnId6jBP7x4dDNU4Zd3JvYYk0xphB9pc3Qs2BTzxI-wN_U4bq7qXloG_KU00Cv3X33UlpwJLCBa9K-1zOGsfNY_Za-jtRp1O7CGnK3pvZzyEFMbgDD7yKaEqL3MAhiB_WS_GkhP0Ydwqt3tpnsczFn20sT_m9_N2ViDiI2F5BT9oqyme84Kokmdz6hNnE3OJZ49Oz-EXlI0jgqIDuqasheLJWfBrVw1j6QLy8KROUj4scP_oKG_G-qacRtMxnOL7zy0MwLHWJb2w5b-7w-j5Z0uMb0tlxLVIdcYaVrR2DLpvy5bMu4i0YTosZP9cWqGgfzZ5K_4VhaxoJEY_zR6sepTZznHpFodrMBrOOkGR4Xrtd2rHLO0JepkzYlYsaSUUF_Y4tVedFx4dzYjqavHwKM37_UE7b_1GzizXPW6mXO7Gy_7gIGAYiDgoMU0qA8dgItheKLHnd%26ch%3DAQEAEAABABS6qiS8wHu_4za6fA3jZiKN1ZMu6rgL0I4.%26v%3D3%26pg%3DHBKG3CLXHBA6RNEEQD26Q5JE4I
+.netflix.com	TRUE	/	FALSE	1810579023	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+15%3A37%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=751d15bf-d3fd-4c37-a3c2-fadc38d5e315&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778960201242&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	5740ad5f-fc66-44a4-b63e-a5fef26e9f1b
+.netflix.com	TRUE	/	TRUE	1813603025	nap	BgjduevcAxJJ_sQVcTHw4gM6xrmWYwS653NBhXJOWflh22VfNxNTXFJSJ0M2EDru4eLToRup4xEDdCqbbSBbeWpQxFOoiu9GRJj_Tfzqa-8LcxgGIg4KDGbp6ob7QTnzA0ZNaQ..
+.netflix.com	TRUE	/	FALSE	1786819023	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786819023	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

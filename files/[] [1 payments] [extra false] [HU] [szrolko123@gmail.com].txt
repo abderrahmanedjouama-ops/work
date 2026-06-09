@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1799629095	OptanonAlertBoxClosed	2026-01-11T00:58:15.073Z
+.netflix.com	TRUE	/	FALSE	1799629137	nfvdid	BQFmAAEBEMVu5vgmoZHcB9BmWQIYLolgsfZogFSEBzj2szqIDfjlQeCUOLWbTMe8bSGHuP2ZBini04wfo5EFd6nQIvfm8b-0cfHAT3njEl9deRlGwjDmRozHO5btyQNdL12yCLT6qf0vsaUjd-0wH5a9llsIXFYR
+.netflix.com	TRUE	/	TRUE	1800978539	NetflixId	ct%3DBgjHlOvcAxLGA6chVYsWyTqg8unAsq9b-lcy7OeGMashuKFsonYs1IoxPrOOhOwUbTXyJ98toULDPhHaU-WcmBTrWWE8tELghCjRI4_zg5TD6g4ZQgmgJE4jVNRlHvkjwjJAxpFOVCzaPqdw6lbYOBPm4biUXGYp6sVpk_EIhR8EneYameS6zOxuwSpjT0j8XhF0AVZYDAwUmuxjmUZctKqJLDUelZvQl6v5_rJuVXJU04dPtnAatmCIKBiDmS1SM9hd5MpiS7KfklV4bADX2EcWmegV-XfqwD57RTriDq72XIJy42g1XpRMtXilwCtgAT4RP90FlqII0JRmw8cyJWS0N2Te4lWCInD-6aZnwpbwD1MpOSAtYe3p-rywcpk8ihZbBmwE4WcTTcPwC9k-WB09KXH1zSOfwngGqDilkPZI94PZSba-GCLgxT0acSXXF5pZ_GD2r2XMfOdnjr_maIfCUjCU3wzF74sC17cSstIl4SSXzomcDl3WcTCYJV8QRrBWL9woNGZ4qnNr3rqPzq2jJxUg07wwNqsG344M0GQLqZdKMDQgF1iclUgcymLjdxHgiiE9pTfARBBAibyT1-iuwNrGRW5b1JYW1lWH4PQYBiIOCgwbiClYWx3eM9Ui93Q.%26ch%3DAQEAEAABABSnSPiyZC6gHb-jy5-M8NGI01yMFPmb4DA.%26v%3D3%26pg%3DWAO6SKTHFJHBBLBMTBKZW4R45M
+.netflix.com	TRUE	/	FALSE	1800978538	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+16%3A48%3A58+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=318117cf-a1b3-4057-9ca9-b96cda51bdd5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1768093095480&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=HU%3BBU
+.netflix.com	TRUE	/	TRUE	1800978539	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNY5sB9q5tz7Xqp7FkUnwZmYoNZJ4LdCg.%26dt%3D1769442539677
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	aea2075e-87e1-4194-99be-1e9069cc53cb
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	733964f1-8494-4382-b060-d950109d33d7
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

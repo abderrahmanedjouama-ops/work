@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/title	TRUE	1803021090	dsca	true
+.netflix.com	TRUE	/	FALSE	1797723238	OptanonAlertBoxClosed	2025-12-19T23:33:58.415Z
+.netflix.com	TRUE	/	FALSE	1797723240	nfvdid	BQFmAAEBEInsaVDcv5CPsXLElkFiG9JgHeZYJbAjzjoIORDXOjkOHV4AVF0aEDi5__w5nGIa29nrtSWPD1PtsiQhzwFnceI5lPmzNLVS4HjytZvDuiFWYTtpDOGFxgjg3odHOt0ctShkynEpiR6E_wXSoJ1ORgvf
+.netflix.com	TRUE	/	TRUE	1803409526	dsca	true
+.netflix.com	TRUE	/	TRUE	1800529292	NetflixId	ct%3DBgjHlOvcAxL0A-UVgbZFXCqQpDRgG1CeMtubXU6ki69tsQWcHv6iRhML7MciP7Fd3D4Y5uSirrR7lUWqnAjBMfGlPQ0Fdq697g3D6mWPHqUEE9wwPLVmv6CJUW3sUfClJPFje5D0gGqThFUVTP-TCAlbq8PdBpCBhxNiJvEdggqQXpgjh4Nkc70Vf0jmYIKR-H-ULZ9KWgx3AnWPZlJfPRsN5c0czxTzPerUCQYcignHYOn7cu2BdPUPojOejJ-ljS0npqd-Y5BajWxokfscQLV8s0-uTqc1ySwSZ0DXlVpAOtY1OwcldFp7jAmhYHQCp850_IqPtP96FRPi-AgZvvGiQZYdtyhtkiR7_lr3vRkCaLhUm66iLm6K2qkqRsE2xnbjfBcjnMmorh9LpuSEA8KG-VcBSDKdfBu54fGLEyULr_2se4eQc3tVDEHdBQ6Q6bNylj9TAJsvqQc148lhmqn_BSJ1Sh9Cgl9379l9NnDzYbou0WiW2T47y7HzPcPyAyKX5Au967-TDdH4rDZ-u9VzFqdZLuQ3eM8-bP5G_hSMGlzu0FcKDtVuyBdIVnHVH9644KtHYsj95hoIthkcdV3V6d8AXT9jzklpw_anFwgBR2_k9ojdoaiXQMuFk_xDDUKm6_5y78vSPRxNch6Mo_Zhi7pmQKT4xBrKMmC6GAYiDgoMcLhXRUuzPwNZ6N72%26ch%3DAQEAEAABABQsD-i28Gt7oX7G9oHKI8X8ifBxAmiumKc.%26v%3D3%26pg%3D3TSARUECSRGEZBZKELZS5JJR2M
+.netflix.com	TRUE	/	FALSE	1800529293	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+12%3A01%3A33+GMT%2B0100+(Centraleurop%C3%A6isk+normaltid)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ceda7343-9147-4dff-a59e-4b6b2d3b6b52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DK%3B84&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	ec666027-aee8-429a-8aa6-a3904313190d
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

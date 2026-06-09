@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2025-02-04T20:31:21.178Z
+.netflix.com	TRUE	/	FALSE	1794310864	dsca	customer
+.netflix.com	TRUE	/	FALSE	1791286928	nfvdid	BQFmAAEBEGijhIJMYgLkIo2KMbXkFbhgM8rdd4ZACSVTuVjwF6ANnBbpDB5kWYcIBfY6yL-cXRIQk7kAWKBLVrOOkQdvJ7O4Z2Rp2H7erDRNxt9IRvRPbZwXnnBB9J-U-_lwhotLiWrMBeYGg20ltfLD7WjSqMpg
+.netflix.com	TRUE	/	FALSE	1797942211	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+13%3A23%3A31+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=3d3db07d-fa93-4743-9ac7-683a474d47ff&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=SI%3B011&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1798822488	NetflixId	ct%3DBgjHlOvcAxLkA2cz9B0RqdudxMcEyNLTGSAj16f5FdVCEl-x6V-A3inm30gudp2Bt71mQM8hG9oH8jg07jtOMsD9I6-nLslrVPovkGCqzAWB1xfIxyiv3uyKRf35jYXI0N1aveVQljFTmSrFf84ZXpLJHsA2x1QpAF3ju-rd55sDeBQSIkwc63lmqXdm8YRMm9VLkzUeDJQ_cMQqcPBjA41FxzR5wYUd8HMypHLF8eztv4H9IR_stXCnb-bCn8iBGT5xznWqHttgFjaSJtxJ7Z4NwzJhw4_1PAS-8F4UNhV3YCsdvP8nlfWTfdnjVzMIvkTrVlhk9Ggtbgo9nNhlG59WnBaJgw1o5mM7H_a9fQkBxczIKpNDzWEpYHgVEM84pk0AgVT_xyNchfGx8o_NAX3h2pl0THojKaheLkbyV855oPx-3pQv8R8GKzR9INSxb3AogJnPr3Qg43xl3a7DHvDzuVpMJGmlaIBnE63HMTedta6NXb00kWBgj0WV-TgDCGDuUV4fxIn7f0EodUqyHyqTShZ7xSM3hzVN4F3OnD5yfdKsXNxEw2D2qkHJ40ybL9PWMzVl_QDtSzLr_WnztZo8JjctiVuHzYjNvKJBwtCiMwjjFrYRRs_kf2VdMcD1dzIJBI8ZO0RmGxxVHI4YBiIOCgw6Mo2tnxhBRTb83XM.%26ch%3DAQEAEAABABSWE-hK3tkE_0AQ1hoUP-n7cLCJxuMHvoo.%26v%3D3%26pg%3DLG357KIPHZFH5NNEZRU67BOTKA
+.netflix.com	TRUE	/	TRUE	1798822488	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-9l1gKktRfSU-WG5J9RD2HErRp3Dpw6U.%26dt%3D1767286488429
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

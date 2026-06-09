@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1791230045	OptanonAlertBoxClosed	2025-10-05T19:54:05.643Z
+.netflix.com	TRUE	/browse/genre	TRUE	1795841494	dsca	true
+.netflix.com	TRUE	/ca-fr/title	TRUE	1801811273	dsca	true
+.netflix.com	TRUE	/	TRUE	1801901796	dsca	true
+.netflix.com	TRUE	/	FALSE	1800406340	nfvdid	BQFmAAEBEJzAM_Ii4Z5YMQTNW9wSEcJg89tEVepSXJ_LhJcjR19c0Ihv8tsklnwKxzQ5c2repCcWFdRRPR-Xg5dBtXJq_R_zkq7kwUcyZEjbn5tK9zJBa_dVRHwPUoDBUEresKi98uw9Ay_7mIBSDC0cOPWI8yc5
+.netflix.com	TRUE	/fr/title	TRUE	1805587104	dsca	true
+.netflix.com	TRUE	/title	TRUE	1805587104	dsca	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1804278788	NetflixId	ct%3DBgjHlOvcAxLeA0TYezaSkXTutpIvWDUNsrgIsPoFqGPXLnPKXQ719AJxgoIVRL-Biv5QuoKWy_M-A0taLKJKqsbb3_MkDcph07aVx-mJ5xWpYpMjJxc0NjXwKjq1aUBB3f0PhY8GUPgtCG2YWueK9YgAsK2Bw_gEUb5yvID4Cs5Ajdsi8WZ0J1hKzujHaNw0B8WqiwfrdvyGKUsV4FwrigAx5jCwqxLRME4WZF49fPvgsP5mwak5fWn8H1uRz4ffzNkYca_6NB4L-B6a6YzbXPVOY3_XsNqnmZUZ71ytLzMAtIMf20aolVHTDuQ1OhHUVpDHjUW0a-1HozUibytn_nSSWVVeIKRPhpIp0hIZ2MOWXoyWNzNWeXZDYtPWTSX2S-vr45h9VvrM8Vp511R5SVulXt5HmULSdaz5TGHFCTJEg-j51DiRIyRdGacaQey3IFweZgvU3QyRFeZdWC-k9TG3lkqm7Pjkodn55QX5P77rxSOGpYpXk-5jYbI5O8jd2y1LBLL4FyI4pXp3KHk4RmRCpxQq5QRVUQV2VDD6jCEd0aTDxMofrOl9e5cyvbnQowUUd7YQJp7xull01p1_uBrH1Ytd-6wgXjJxEukO-Ak4Q4OfN_WZuFt3j8x0NzPn_2WY0_Y-jeEYBiIOCgy2y0hSAwPCQ6jgYEc.%26ch%3DAQEAEAABABTryhAQ0L3Dy_endwjdd_S9EkgTj2Yo4H0.%26v%3D3%26pg%3D7XHMTR4J4RFX7JZ5EOOBWHJAHI
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	34ef47c5-c471-4cd5-8885-20d952e5bcc8
+.netflix.com	TRUE	/	FALSE	1804278790	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+21%3A33%3A10+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be090c99-55a1-4dbc-94b4-c1299d7c9c02&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

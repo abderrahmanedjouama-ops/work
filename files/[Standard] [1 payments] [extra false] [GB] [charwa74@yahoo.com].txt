@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2024-08-23T19:05:19.839Z
+.netflix.com	TRUE	/	FALSE	1783545571	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEHfUwFA_ogkdeuSR_vUe2ENga3-i83dQYg5g7JdttZU_pWVpEU14ycxFu3PoOgntQy9c6V4k6g-3zU2eznMo7vdFFlGfGa0lSS6pk_V0hk6IiHTvgMbrKvdjkqd6nOQW8MT4K_2NOWSrHmbq0wcWdrPI
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	ct%3DBgjHlOvcAxL2A_t6uBDUycuxxOwVU1phZA4Bn7yobK4HHJ1nsovsequ2EWT823wgyxKCwMkyPCmyaRZo_IJ7LIraW5mYRpeGwdwle8raSc9wvE2_BUvpqbNmSgwXIPeB7OPRVDiHHV4QUFUYY8FPiqqTqVk9xlzndvbz5tr8rib5IEIteUrkhIDDC3UJMKIhHvAYKRGjYJqMFUvdQSeWv3UQHHjQcHZPeJOtsL6VWRj3E8qfe71xsdDJqNFr45hAvYQW9kRAfmdajQHHxDN4wZ5zYMXuVISchf5n_J6lqEgb0aB3htmLGvgfr-stP9phVazt3U9AV5WCLeldmfCx2OjHlsI5f2VVjb1f80dluSE9VWxx3KaixsX1Q7u9Y7p3QgQzoZ36QnLH6LwShaCEacpsynG3F9koWkUb2EuXQvhUl56WlnlulAPcCpWNCJ7ZIKERfBHVlItHDuWT0vJctwXWUCf1wQ1gZU-Q8upHVzuw2r94koYoPcY2ZnPU1uIDYklKjJKpC6uRnKH1AiJZxPQXNNQaJmHB43UC2NS4iVhneN1dsytFxo7hbyqyIgjR9ft7jTahrotVYFkiO-UD5fVvZjZPCi_bnHZpuQtQ98Pfe4mJ4bdBLXF0VdjydpwwmmApuPHcjxS-A9M9cVGSpwe6Uif2HEIJcu11QIYjmhUYBiIOCgxKyBobniFYqkENmOw.%26ch%3DAQEAEAABABQOLqq5g3t3Y3SqjUVUB-4qAKEc9J1ckyQ.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783545571	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEaBi4isRtZ1aqK_cQacpc3hB02Ixvquw.%26dt%3D1726587490839
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	e5d0c5bc-6902-43a1-bcf5-b8041011e227
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+17+2024+16%3A39%3A32+GMT%2B0100+(British+Summer+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=836ac20f-e103-4596-aab2-1be59180aa79&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false

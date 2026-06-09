@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1791353438	OptanonAlertBoxClosed	2025-10-07T06:10:38.130Z
+.netflix.com	TRUE	/	TRUE	1795500625	dsca	true
+.netflix.com	TRUE	/	FALSE	1799825537	nfvdid	BQFmAAEBELYcGLArnVUMLyriWXMFzcpgnz1Ron6dVqB5-6s8CIF8JXwH4_DZDrjhWjw40FwtbJB9pCUOkQS_fC2nf0qyV-OBMa2p7hkIt9JXAxV43VC2vvFRONO3XzLGAdrIdAdamOimQTkOxuYc-FT47TAx1odg
+.netflix.com	TRUE	/	TRUE	1803625923	NetflixId	ct%3DBgjHlOvcAxLkA3C8dWA71CooRkijGL28WBlShjDXD9mq3lpeNVS-wdEn0nLL26rKK39JlLb2cM4dm1qIrWpjwQnyYb4cncL0al_Vk6B_giXUhFkAnbxEvR1tFzDubcGRvA2WRRZ9JusoTXG7fD_GFhE3gf4Z_kBa7LTiC8n9RSLExeVZfGAusBICDrzTTMyrxcdd_-ROsXc8RfiSPCrvwtDjxFWo1k3YiyaAuHie0QyjOzUNImWIVZGfC1SY1yO_zOoM3yOGdtOrmJ7CnylYkMc3dE5WZfyVEC5mC-8-r5irqY0MQRE9KtbOobIqr8j5wyrOdM5ufnbIbrjUigF4M4WjOvcGpgKaF5MTzYKmEtNE2_z0q8qXX-3vk_kcB4KlbQAKUd3z8B3IChDgbn_Lf6_Axw5v08a9CFwNJLFNW3yPveLxnJrLBwFyjaw4qOp9daz8xFT1aNx6kv087F1gdpfnwuS2Cn0NDf9fzXnHBp7IbU65jHfFJeleYSzW1glmHpGU-MACk8mnpjOKnuddWX4mRO7sOmIJnP1h4d5B-BaM33oETgz926YYoor6H3NSTvGWySN4z7hmINwMZwZR85aV4-ds_0JxSOuItzwP-4297zpmZ8LdaD--ghsv8e64dCu1PpY1zbGYyiI08ssYBiIOCgwGMbsmpbtzBn_FncE.%26ch%3DAQEAEAABABS_o0RdRl502ruWICEZW2mL7acgLShLgmo.%26v%3D3%26pg%3D3CMIEIBE75DFZDQHLBUMDHLWBM
+.netflix.com	TRUE	/	FALSE	1803625924	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+08%3A12%3A04+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=fd654315-83ba-4c5b-903b-6ec7cdd00b9a&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=HU%3BBA&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1803625923	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOZD9x-0oqHJRYRfi7hpXh_aw1Igo6jAE.%26dt%3D1772089923215
+.netflix.com	TRUE	/	TRUE	1783545570	gsid	b2cf57a5-319d-4977-a766-236cf8e829a9
+.netflix.com	TRUE	/	FALSE	1783545570	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1783545570	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545570	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545570	profilesNewSession	0

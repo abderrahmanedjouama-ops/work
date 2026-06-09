@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1787430873	nfvdid	BQFmAAEBEDl6_fOaCcyWBHPSgtUyoYBgaKXXLUB6pQMYanwkv9WaTO7zCKbE-cgTZth4-uCeDyzjgcw2Nbay3gf0SfSklhlBZ_bFywZyZqvnElcF028CBJnxCzGiauzN2PA9Wfll7gRbrR9wyYW_eGNaHWjmpiU8
+.netflix.com	TRUE	/	FALSE	1795245154	OptanonAlertBoxClosed	2025-11-21T07:12:34.926Z
+.netflix.com	TRUE	/title	TRUE	1802786429	dsca	true
+.netflix.com	TRUE	/	TRUE	1804185045	dsca	true
+.netflix.com	TRUE	/	FALSE	1801577950	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+16%3A19%3A10+GMT%2B0200+(It%C3%A4-Euroopan+normaaliaika)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=5b4d6487-27ea-44ec-9590-e7e6c9c50332&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FI%3B15&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1804194302	NetflixId	ct%3DBgjHlOvcAxLbAzDN7zcSQ8dHDWXmLjLgpU6TgI1WnWMMUPgq2GDK2pXw24SvokB-uwnAESKSFaKg3CuOYCcipT_wVb1rwhUrvbLhpbSlB8pLl3aWzisBjr7qf5ghPIU6bQr3ug0iX58uW2b2XJSi0WkCyd15ywJgyJBpOtyDr6vujBHxx0SKAL9iC4jghyvAuRBBBUxwCW7sAGa0s49SA91fMegYFxRiKz2vEpYAEwYRBGpU8BTUjO-HjeKEujLPpT_1VFq2c7cfDnqv5ek0unFqVhxYZ4HJIrF7FpKm4mVAqwHitLC93ElN1lTie-zZxAI2PADVx8gQYTVL5xXfc5AZ0jr569Md6IBKGtrWSF3XQfJ-LMmMGsjubZuL0ci34iWQAYbgUCu_UDeZHIlqzRVCBEvO2CdkHgdxnvaAKSaokVikgwnZRtfEVn7SoV105cXqAYwsWeozn4O-MdP_Z5haqqsSMfO7nnpFhZvC-en9TgnXtgjPK5xTUWHUf0-e5TR77KWyz5xsOrKHZ_br7IIUF-i-ILTM5E2WzLEPM7FChBIXwBLpNbGH3e9Ld2PO3ESAfBGKpS2CnDQsSUYJCq4Tp8OqiCOuteIQCqJqpvsoBbYErm-mSobbQk-f5QB3eMSq-eIYBiIOCgxi2omtvDt2y5aupV4.%26ch%3DAQEAEAABABQYL_cVoaGpB5Dz2wAOoEb0TG1ujU5mwIM.%26v%3D3%26pg%3D4EG4ETSNGFBVFLLOB2BYPWEAZ4
+.netflix.com	TRUE	/	TRUE	1804194302	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRW8l4zrQyPB7q9royOGDFTJsNojgDUmZ0.%26dt%3D1772658302229
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	0979d4f9-541f-4408-8b4f-64be7a6fe2a2
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true

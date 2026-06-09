@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1797545414	OptanonAlertBoxClosed	2025-12-17T22:10:14.756Z
+.netflix.com	TRUE	/es/title	TRUE	1800569795	dsca	true
+.netflix.com	TRUE	/title	TRUE	1800569796	dsca	true
+.netflix.com	TRUE	/	FALSE	1797545795	nfvdid	BQFmAAEBELdHRBZiEGD6RlW4nRvAHOdgIGxHW1kQplFjOQCPrMT8w1054fHMeelRBNhreZ1jaQCv1PP3T0CC91cbYNHQdAh8N9xJM30hoEPV3iEsKrKXSTtoCds9WdjG-dL7j0BxZPxLBXxt1qHfAK_WZTss_7Pu
+.netflix.com	TRUE	/	FALSE	1783056508	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1801769163	NetflixId	ct%3DBgjHlOvcAxLfA1rVTip4Eg4SEIb25NP47wIQu8O9cziaHKCY6yAZogP_6MiNmmtZ_hTulae70IKGPJtnvhgHuuLfxkx0q_T-WhmZL6TiLPc4A6BLqxZtnYnd4CnYNsKpWOpPL-OPFKYBhbGTRhLo9-Km1xYSjDQrCR4yQsa9v6CleVhj1CyZAuDXk603VmHqIjgttV8VEYYfH9e9Y3m3u2pVFbd7DgyoRcGNs5RVmnHd56J6zq6XEUgWDsTZV030h0hRzKY_jYzoSwwGgAAcPUiR3jWaAllBzLEa41CtAU-3bETepMA0tnGR89k1ocnsSH67koTHCu6o3u6VjdIM_JSdcvWhlPzQ8_CT5Jm6aw5JqL81IuuSr06PWT0wuXW0Kjw5VQraVJHVYwoBHkDD0nu3M-dYf9vX2nqRDCofr54m74JNesIaxxPWJ7Ue0EALksY8-XBnMtBkQE65XGngoZCNfErIHIS6nEDYRGFIIwhLvW0ypGD_KuQyhyF6EnTCwNxD9_wCWXSu7lmL5cN9ar6pE5Fk0nO88CgZ5Qh_rWcEtUCXCiy_lkGmq8KWlffoarKM45ZGKzVg1MtblnXyu975RNdBUtwWT0dxd_xyYiTPewb8PpFt35xndjwFReDe6VqvwQXfNl5xGAYiDgoMEWzb3--PTofcIJZD%26ch%3DAQEAEAABABSco7PsNxAuL0b9yRC92O4uPbUvC6BigKo.%26v%3D3%26pg%3DYWPG7OOQGNEMNLYAWGZFRU23HY
+.netflix.com	TRUE	/	TRUE	1801769163	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRz6nJ-zAqFnAjNMbWq2amEqNeTK_9oTO8.%26dt%3D1770233183231
+.netflix.com	TRUE	/	FALSE	1801769297	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+20%3A28%3A17+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b3ea394-007b-4ae8-814b-ef80c9b59976&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BAR
+.netflix.com	TRUE	/	FALSE	1783056508	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1809478515	OptanonAlertBoxClosed	2026-05-05T00:55:15.003Z
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	57f55a1d-cad5-4a5a-ac05-1ac7fbe7f13e
+.netflix.com	TRUE	/fr-en/title	TRUE	1812502531	dsca	true
+.netflix.com	TRUE	/title	TRUE	1812502532	dsca	true
+.netflix.com	TRUE	/	FALSE	1809478531	nfvdid	BQFmAAEBEOrkX0vQbqfMAjoyEIf7LPBgj47jXxlNTsgzydKRT7guotg1Ho_aX6NPpQ8qHEvss4z89NDdGGxFEK5kwFD3IiMIHhwXGPLXbCfGSLjOnRtxMP4pKzEtIYT11ihtI9-1dIc8CZQHt-GX2GZ2awHoqrm8
+.netflix.com	TRUE	/	FALSE	1785788515	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809548515	NetflixId	ct%3DBgjHlOvcAxK0A9LSeISTkAgQf-5ThBQxIGo8HGjC1s-Fp_U5YXhV4ApK3g_fUiew88725iepTw6EtEDvQd21_XrqoJYlU7Nqv2e4GIlI7C0_ay1NFsrJuXdbp0wNf06vtbHohHlE1JKIOTYvtlWOFm_SdAvZ9axY6t80zux0TT7JgGtuTKgMQDXXlCpacBQLd46NR6xLMk88HVbdDbOWskQrkHqUKsmikQQz7Ed31yh96qE0k3ousNRoKU21CUSIZGTXm6DY7sSER1ZYRKk9Dp3b5SAfjpEINonx3c92X8MjwqK456fz0h5qKQCEp0q-ZaOyqLuFCM79SIELmIpbFPy7acqFnmMCO9DIZ-ufdxLqSu4uBie9Kt_FgPFpp9rgOvH_t_BpDZcokMc6q_Meza8dgDOExkxDADbk6qfcDrWx39Ur6OBE2MgpTPijgYfKvnZV47RpS5spr7vY7TpjiLhO3vvjP9OO9OsSM6j5ZJwyQxrU9oVKGetn23FSnCUWPCgCzIUQQZfUjsYh57d3_CZY0wLZbOC3964fRI1WHQEKS9iiGDFU4J85VcC44uEjNNZnxqcMhVu8IUgslF0YBiIOCgy5Tpnawr3r0jns2Mg.%26ch%3DAQEAEAABABRyuSPcYLN4fVJm7Tkk4lsPCOZ4Xi7AzCc.%26v%3D3%26pg%3DY3RGI6ZZKFHPTIJIS4BFASQK2A
+.netflix.com	TRUE	/	FALSE	1809548516	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+22%3A21%3A56+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=381e897f-2ce9-4799-8f87-75d53476e61a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1777942515395&geolocation=FR%3BNAQ&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785788515	netflix-sans-bold-3-loaded	true

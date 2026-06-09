@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1793214681	OptanonAlertBoxClosed	2025-10-28T19:11:21.596Z
+.netflix.com	TRUE	/	FALSE	1793214671	nfvdid	BQFmAAEBEHJD_2AB1Vm-ilVp15Osy3VgilgNG2z6MTWeBHovHnxytYi31JS89ssT0mOGcHR9Yej7PE3GOf13teJLkbh5lDJNQQzkoEeYK_wCH6-C-PYBFYvAckJ2aTv8SYb_-kL69ROz0XoIW5viDiO3cJDIO4Gu
+.netflix.com	TRUE	/	FALSE	1809242531	dsca	customer
+.netflix.com	TRUE	/	TRUE	1783056508	gsid	12af3f64-0f4a-4759-98e2-e272b1c33777
+.netflix.com	TRUE	/	TRUE	1807798030	NetflixId	ct%3DBgjHlOvcAxKLBPMpmm4LpJNamxNqi5XVdrCKLeCsfhJluBKPwc1_BspdEdIisoiWfwzdVQLgcfPLm3b6fEogFdIvDibZm8UnAgWDZRFKITl8xPFdyt7nz6x3Q2pbRe8FHUziG3n94jgLnY5eTc2qyqcKOhiqRN5P1vVZGNZuxwm9LWfMYOKjo1uErBc1-LVxWtXcHYtpUymiKnX4ToDyG3F7JwHCcfTJvVgidKoI2yjBP5RmW3lcT8sZmWmNGVJ4okK6S83hdksO6VMHdGpLfikhVDFexhFrq47pXdzWPwaMqB65ewUpIlbI1Io7LwjnZg2qHpH67aaBLgC60p3JyHN7Xy1eLttUa7bTDmuDHTb2QlBdeXa1ZFqYPG56ePgHT5EMYPJWa36nWK1y7JtoqvLpPKMlQYqv4daQOpS89AtZXKiqMqTo6LdQsCw7c1b2cNLVVW5AF4Gza19V7t8zEVFad6jkvyZcu7IgvytfuoaWaHK0SO1cYGL75zhNFyPJwHs-dG_yP7PCBRLz_A_s0xuv5Tc3oqmuidao3ZM7cAFpjIKpLxdY2MYD_w5Ufazn7bfAkMf3-IuRJxLIHHPBhAaHVlLJr1oxySVtC88elztdErUMexjaAArtPVAUNcY1sqUDK_Uoi1yOgZnFR-lE8AGLuxVqGsAUgOUFb9n1mSfkZXcgPD5IUr7CxI3nrgn_-BOu9SMYBiIOCgzI3Sg61OjBN1XTCzk.%26ch%3DAQEAEAABABSHGpYj2psU21KcCOC1P4T1vO7yoS4LHLI.%26v%3D3%26pg%3DT4KV62BWYNEH7KKAJFF7OIGTBM
+.netflix.com	TRUE	/	TRUE	1807798030	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3fQYFoBoKyqKBSGNmi8mjDNzH5Ha6Vc4.%26dt%3D1776262030527
+.netflix.com	TRUE	/	FALSE	1784038060	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784038060	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784038060	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1807798061	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+16%3A07%3A41+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dcf9f783-41f6-45d5-91d6-77edce4a3a61&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0

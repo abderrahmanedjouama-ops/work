@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1793135200	OptanonAlertBoxClosed	2025-10-27T21:06:40.262Z
+.netflix.com	TRUE	/	FALSE	1793135231	nfvdid	BQFmAAEBEE9dFeZ7iUlskPvNrSfA_eRg-9OBJJcF07A8W1tRKgGgJpgfiBLFOYielUzqXJWLIZFko2aBDRBzxT38J4f0CTqrczJ0MuBvqOd6jPshsTs6xXKMEvV9-RK7snUUAF8g9O8Y9A7YczUz-24exwxShqv3
+.netflix.com	TRUE	/	TRUE	1796159261	dsca	true
+.netflix.com	TRUE	/it/title	TRUE	1802277570	dsca	true
+.netflix.com	TRUE	/	FALSE	1803223804	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+16%3A30%3A04+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2cc3bfd-36ec-43bb-b4e6-23574795b5d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/title	TRUE	1806247805	dsca	true
+.netflix.com	TRUE	/va/title	TRUE	1806247804	dsca	true
+.netflix.com	TRUE	/	TRUE	1810063495	NetflixId	ct%3DBgjHlOvcAxKEBKvCPkIXAmMmfaUKvMyfIahene4JiMs936ST4K1GFPKnoGEPjVFr75uyZb-W8wlDT0xiE5OapDUY7jsG6nusbeRwERRP8Lieyrtb0DL3iaAkdcG05PcvmNKt-4PgG-GylBlshZFJsRzKIqXGRA_XBbs_KVh88YB0_7UXj4gmMNJnl0jjHb5p2kN2qhBMBpmvARWxXkQMOQD3PPTqS8ZQ_ttZv2CshPCfQU42V7KwzgjcHbA3Fu2ktBpCBjzwE9nQ8SChX9nPHgHI7pvl1yWIuK8UrgXfkn2LzI4LRhU4kA-epUElA0jCPqVNnkwW0rSaB4mteB0QKHQg-08KsWqYZKs4jZxD2BoS09N0_Ip__TJxeL5Qoipyl5Hy7XckOhCWbXmJtyeAhKsDhIcdZp3XSbHm8pvNjU6TdrmFWHBuCMIMudmTXfmtC6wzUciqHSJhEhHzqjmOpSbAODZto2-WhgJVsuwryXiHFXtrjqMcsC8QkmLW9yG12R3jyw2fplbHrDzSUS7rVbHEg_A_buH39dz1ZTVH8bHc4fCWIabGwTQKdPMu8lVmQ-37xsl5PLs7F40sVqw0W1JYlHVM4kl6Okwc3oL1TtTckTSknIfe9D-GvJrZk7GDnNF-mD0oViutQ91mKEs6o1wCIpstM3maNYN04XqD8T5kd2bjbCMpD13m4oVtnxgGIg4KDIQKrPrxt3gSivtpAg..%26ch%3DAQEAEAABABTWu9C3DD3Q0FLkfj2CyEFzVof9XUbYQmY.%26v%3D3%26pg%3DLQ6KVWT3CNE2PO64JKGT7ESKKI
+.netflix.com	TRUE	/	TRUE	1810063495	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTw8Ors2FhzzXdadPQaoxcjTH2fsMfvK0U.%26dt%3D1778527494653
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	3d668e4b-9cfe-494d-bcce-258c6b68f437
+.netflix.com	TRUE	/	FALSE	1786303495	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786303495	netflix-sans-normal-3-loaded	true

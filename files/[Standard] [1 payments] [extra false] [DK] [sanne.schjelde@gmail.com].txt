@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1808044633	OptanonAlertBoxClosed	2026-04-18T10:37:13.289Z
+.netflix.com	TRUE	/	FALSE	1783291793	flwssn	66f23abd-566c-48d2-80e2-7649165b2583
+.netflix.com	TRUE	/	TRUE	1783291793	gsid	c9149744-f77f-4d9b-b822-42a44004cc3e
+.netflix.com	TRUE	/	TRUE	1808044750	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA0lAyImD2PbfBAdCIoicMOYDZUEKuRVjJWdqLD8o64ZhpbDxqBmqyPL48ddw1Rs0XCxen_me3dc9qf8mzUMOhiEdMl6Op87Uk3VOCLRZxOQnZFPVqBkSxNh8nV9OYEGBn_23E78vmlw97l6JmiUQel-GIedM9-RipUklko9kU1hmYj5lHU1nqElNahVsmfgd_7wIyPA4tbpnha7uaxfDWnerDsReZNTzGI0kv8MsnDkWUchQcl-hyGQqdHERej_-GC0ZYk63Xi8TmQJNYgU7quBRFJLrwwSuTxncOplwwiImOzxSVRpWqvMFynLnp8CSq7zJOsLsYPMg5u6FFfSKKBAiq2jJw2HZJGSRzztbX_-BZVLS9vBhl-Vge5HCo9cp1S7cGq2wsd5GHcPOXXfAvowIPNfEBo-aKi1WpX21DJKZu8UQwQTnFA5dbnOiT2XzMSfS11N5yq8K_WRF7ZDKtA-eD73Ttv4pvSniAJUj_fJErEsQErVRb93Ku0MPr2XsllNQTlX8yOl79i3XlHCG3lWIA_Z0SCoNQRgGIg4KDHQ25X1-G69GnKXJdw..%26pg%3DVQUGPILEMNAA3DMFAUX4P4IOEE%26ch%3DAQEAEAABABRnpSPm4JVDLggo4pGwu2tk8u9jc7pMPRA.
+.netflix.com	TRUE	/	FALSE	1808044751	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+12%3A39%3A11+GMT%2B0200+(Centraleurop%C3%A6isk+sommertid)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa83d79c-b813-450a-8c2f-e9864f3e4780&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1776508633720&geolocation=DK%3B83&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808044750	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQi5d8o7RUFFP2tL5ekoZl4kjN4KQDJGE.%26dt%3D1776508740371
+.netflix.com	TRUE	/	FALSE	1784284752	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784284752	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808044741	nfvdid	BQFmAAEBEMBuPlO9KAAHdkleJdDlqMxgyZ-v7MFD5bJmGfhQZtb8I6Oq38IYncvwy0HT90mOEISO9_Kcj7NMyV7GiHeziy4qvx4NN__J9melfjeBg-17VT0aKlW2COwZADuoNdBwC_bR66b2UExV5KtDd7Zx87vS
+.netflix.com	TRUE	/	FALSE	1783291793	profilesNewSession	0

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1796297740	OptanonAlertBoxClosed	2025-12-03T11:35:40.226Z
+.netflix.com	TRUE	/	FALSE	1796325837	nfvdid	BQFmAAEBEH_H4Ko5JdXtF6egQovHNIRgm5hB-_DZkmG57CEk5fnwdU3xpv7E6-KVWHCsuAow7vQtgYDH9dVVbc18FzNhZAsJyDJMwK8bJRPAR93Q2GiG4qonWMbALuSPmMHX4tuFAmYuXxAXsDtQqRXVo3W95ptv
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	1dc6138f-30c5-4c40-a3f1-b08b6f03becd
+.netflix.com	TRUE	/	FALSE	1809854471	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+11%3A21%3A11+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13c651bf-b766-4a2f-b2ba-5f01c7374f1e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1812878470	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	64929be3-ac6b-4c1a-8dd4-266bf7eb5d9d
+.netflix.com	TRUE	/	FALSE	1786094470	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786094470	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786094470	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1809854474	NetflixId	ct%3DBgjHlOvcAxKEBB5zgP3_6k54nNN4nBP2B5RWG1RZai3AjaVdEP5S0hHjv-2bLbnmZZo0uhpL2U7khiP190qfxpGqD5qer76fZq8I4yGPa6PlIhOqpaSKayDVmYL_NleVyVqTLx0CIozzV2v1IG6hEI1gve5pEwad4I1bbctm-4QIUW2_g4vVhJnr3QvYXjEZ9d-WokiRRr2wLSIqwxcP2Lrp96x_yRhd78r1cdhkTblG9M3-ICbKI2JL7cZmenjR79OhVPikf35VG4wMUwpbw_W1U3gixLNgpm5KYvWJ4goV-Wd0cpCF5fBP3ASyTa7w1Z2qFc_Mtf8lIr5DjEy991-YWeKUvKKmXa2GFqSaj6JHF6xc3T7Y-mFS2kNBaadFrd1VjgdW3883PxQAMORFNY7g1eD_xHMuyYMhMYXkYSBu2GZ1eWkQiUADyfQcbNyEyJDYryJSYnM4_-o68vbWRs4teFH_EIDXo5xL25A5mYlWVLK5Mo673mXabEoFHERzvK8dssyrJdYIrT7zoRKXcnoXoLU8oqqF1WiFELHiDVOLmy9GNm7t5OA0omtSWR_Kjq3epo9al0yRIjc_Neg0p4ck72GHf3TrnfFUv7pG8KIDMA6vFF0EWktbZKoA7nQdGKgIgdeE8NRgzNRKmd91ozcFNQPYHZ0AyY0brD95eZpXt5PJyaBXK0h093jatRgGIg4KDDh-SKiSaNKuXK4FaA..%26ch%3DAQEAEAABABQtflwILIwHliSCfJvXDgwjZfXb05vrkuM.%26v%3D3%26pg%3DHNPCVHICDBFCNIJBHF5O7NLVKM
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

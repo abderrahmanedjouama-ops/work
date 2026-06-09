@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1799558864	OptanonAlertBoxClosed	2026-01-10T05:27:44.418Z
+.netflix.com	TRUE	/	FALSE	1803084203	nfvdid	BQFmAAEBEBPoCHinRbwWWJ6oseGRrPtgsuXJ6Q5ruVbSd9cZe3ITMcihZ9nWsOPYwqFdlgUgsJW4ROEn9iMSh0nUGXKb6xO_kNCLM4QHbk_AGgdrbF7Tje-aD9JLFKshhp11O-dQ9e_o2p3T7ixqYv0z_mZG_Eql
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	95afec1c-b65e-4bc6-affa-a5acba1d15f6
+.netflix.com	TRUE	/	FALSE	1803937953	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+22%3A52%3A33+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de90fe95-2e76-485a-a6d9-f22842d7f108&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768022864859&AwaitingReconsent=false&intType=1&geolocation=DE%3BNW
+.netflix.com	TRUE	/	FALSE	1806961949	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1803984198	NetflixId	ct%3DBgjHlOvcAxLkA9tqQ3Fxui9lF7-KbXphC_oYJ2nRuJ4uptXoxPZDLkIIXUT36WxEX9vnLX81wSWNNXUWsPxUr67RIg_7TCjZrGJ8MpuR4fiHNjd_Slr3vDIVKSuXZLQg0NpMWprFFIfIeDIe6YGfzjNrKgGqi4dt2nxnfjWggcyLZqBR-zX1pCR5FyJOF7oGsAeFhJPBxkfk4PiK_DhtWuFkY8pJsaTH2AdMt5k3WnFuSIwL7Lejw6h7IR7o1o4POOZbNHwXbb-T9XfLyxdouur9oIwTjPYPL8jz1jntBj4bSXg-kb-3o-lQ53ZzhopiDmunlLZM_6Xn3jedbGdytE4Sdt_3ris8VEj137uaqAPKCXKJGe2QMnUIFsEZJG09vaz2pqQtkpnnItaVM4jiR5C7nAOt9FieiH6-v4jS0wQJjtwAOXAT_w-IDwf2nsoxWfIHsSYOZz99Gu6AimUg2BMviwinp8eWY2QnrSdo-dBmpd_V5FIIWFzycISw9-pkXctVUd4kH27e785AKcqzaVVnpWdDRpMhaIjVAYI9WQCoXr6C_0KKsDTyyAE9oM8oNDp3wpx5G2R6lK347xWS_8LDMJZfMGIzH-zxRo4AEKCuAaBSNMWu381C4FjiEHczmAarCLAHJMkdtMNSPosYBiIOCgyi0DD5GoQ4rBowfAU.%26ch%3DAQEAEAABABRQuH0yFMHqG6PRlIwJRp0bthWcONX3HjU.%26v%3D3%26pg%3DXIG6ZO6O55EUNMLXBPG4TSN5JQ
+.netflix.com	TRUE	/	TRUE	1803984198	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRorHIUzX2By6QLtFs_jo87vC0lMyAy3bk.%26dt%3D1772448196697
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

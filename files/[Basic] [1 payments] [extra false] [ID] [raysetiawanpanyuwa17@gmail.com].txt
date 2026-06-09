@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1799078137	nfvdid	BQFmAAEBEH0q9GoZpOWO-uCzw5bxvblgAwNFgy_DehbdMjYW5qskaRtc30DmO_ueaWvMMOPaP7GmxCCAmNeBNV7bVLdmZVUQbKZLEVWdq53Yviv3GXluA-DLOqCqH5E-2MMRoxedObyxrh1bAGLA90OktoRbPyJ1
+.netflix.com	TRUE	/	TRUE	1811952401	NetflixId	ct%3DBgjHlOvcAxK3A9yjPyv4ZmKtrx5lox-j-zKICqvIc8_Z9oe6T4ihQUAZfnGVKUrovAwU96cPg2p7UAoDuzWsae5dBltogUCG9YefXX2SuSaZ1F0n6mNq36vyZI4K1zcjULNK_BDdVvOY9W9WxoJ2CfdMW7fbAzCdnZwg8dLubxRH0p80xMfd4uDcX3ujJtZef4ndV6NRVRjfCiHqr4zfEw4yLzt8spYG-MTWKCtlrq1GFlzpHhFlIYplLuKa9Q1l267b1HxMfim9YhY-YGe3n9NPvxcRwLXzPPITXfkt5bykKUW8_ymY3X9wvPFzZ79UYd6khWV19jcsXAr17pLTm_Y_vqrxR3O2xTCaOh82U4LVtXoX9Jq-4xUDkkaiewE5QVFUOKps1Gx0U_HCzWCNt6LAKk324EpbL48AG-yvLzV77xmMLiQ4ZpJi5FcUvGfMK9RV0JdtcDrSOIA2MfjIs6SyE6laA67pBfKCItFRtTTbMKrtV4F8lUKXBOF-aquHkHww026MsmP-c3kZQ239BXwvpLRnYLvCSqJfNsKpXaUZrsmuXU4XALG60MwVN5xuYnbZO7VMnDvr8KXf-bIMiUYYBiIOCgy0sAfBG__WjBAcjls.%26ch%3DAQEAEAABABSgyV5uCiysvpDAK3QNJhL87F2ddK_PBUI.%26v%3D3%26pg%3DDRX3FDTNYFDODHMYYSZ46OEVCE
+.netflix.com	TRUE	/	FALSE	1811952406	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+23%3A06%3A46+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f1a8d26-e48b-47bb-8045-267f63e414f9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811952401	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQnIL2bf2gbP1F7c_nxvbh4Tjpu7fg9EGo.%26dt%3D1780416400443
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	1d7b7098-be3d-44eb-b246-5b9ba99c9de5
+.netflix.com	TRUE	/	FALSE	1788192402	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788192402	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788192402	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

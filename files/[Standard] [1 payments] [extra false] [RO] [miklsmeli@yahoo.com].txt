@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1786567311	OptanonAlertBoxClosed	2025-08-12T20:41:51.580Z
+.netflix.com	TRUE	/	FALSE	1786567304	nfvdid	BQFmAAEBELvyOpIU4epeTx_yrWTTaqVgJRvJ88bvm8-IkZxfgM1maVR0sQF5HskETDnBIRseZ7Jwxcsa4bmdqMbBwfREd2lQQ_8HeJjK8RZGJt91rnEICZgcyXotmKz58xdPZkXWJkoLl8ANNPqGTdn4b8E5CtcQ
+.netflix.com	TRUE	/	FALSE	1796240661	dsca	customer
+.netflix.com	TRUE	/	TRUE	1809259439	NetflixId	ct%3DBgjHlOvcAxKFBOsNk2ZJwl8sljlB2MEjZkmk-38OLljNQyWCrmVykd10K3WUl_fquJ1ql3myNmVTOKW9UdpUxsCxND8MLBbKn-MnmfODscfjhpLPr3wH_aKpxN4QZZHFFp8xpFyQDT13X7KJ-kIUVf9iwVO_feK2C9EJJRWHq7QZJ2DdAkjVOgVk2MXxA7bYyxAE5Exf35yMClsRO4oUgbbr0Ate4pWs_xdiosrJbWLBeXnSOJwA1xcvbF52TsUyuNJSMVDidmb1IdezE9tsBaye8Po_uPhMbP7IjM4w0tNpqIsrO6wEoF_Yz8jAs3U-WohR7W5DFdfnqDqnMJ1RU4Krva4Y_5VC_4DlD3iQKLo8_ZtglEymOV-zPafJrwxUIcs5cj5V3Mn21TzVcV8ftB111B7r0nowufEpIWJ12b1qJfEPVt81d8lcspN5gAc809ZcreuCSt-8tNnj3_8TjAIm0vOhRYuo8qaOCocUrxogGcgjt3gySrNMOqEVvukHMluXTV-yCQFVS0tCp79PXF-LONkdoKWawTGQwm31ucoP1Xsc0eajVD8hbInnSmOwptTNQgs99UvKqz2_cZ8dBJcMawEGC9b3BN3fTZts0rlvZcMSLVl9pwtjfCZ4rtEjQ3eK10fzdDjhxLNrEkRsRIK0BU5zYhWlvo6c_xUGDHhUQc4tYeNOwsqL-22szk4YBiIOCgw9pahJ_m9slAt6Gnw.%26ch%3DAQEAEAABABQ0MNyT2-cdkDpQLyuZl8vM5woZ2bKy694.%26v%3D3%26pg%3DVKOB6UXDX5CC3M35GL6RTUFXGU
+.netflix.com	TRUE	/	TRUE	1809259439	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8f21J2AE30kYs6oCA2yB5JsYsVbIvqls.%26dt%3D1777723438954
+.netflix.com	TRUE	/	TRUE	1783291795	gsid	810e9b98-6b76-465d-b0b7-7bedf608c370
+.netflix.com	TRUE	/	FALSE	1809283189	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A39%3A49+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=95adb09b-9a79-4000-b2b8-2d6ddaa3032b&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=RO%3BHR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785523189	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785523189	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783291795	profilesNewSession	0

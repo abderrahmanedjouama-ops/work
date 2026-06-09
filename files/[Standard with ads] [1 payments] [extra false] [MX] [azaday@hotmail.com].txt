@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1781797038	OptanonAlertBoxClosed	2025-06-18T15:37:18.355Z
+.netflix.com	TRUE	/	FALSE	1781797123	nfvdid	BQFmAAEBEPWELTjkJIjb0QYx0gddz75gTz56uvShGt5Mw_r224kvqpgBg0RYO-j5rQc38nHVYo73PONL5k5SuMvhNkD2b1vwud4odQHM8WDzlgUjmUf0vtZGTToDZNbws3WrEaXVqyow1ZNQAYZAGHEMnTmm7S6p
+.netflix.com	TRUE	/	TRUE	1797697822	dsca	true
+.netflix.com	TRUE	/	FALSE	1810507433	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+16%3A43%3A53+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=52bda2fe-97ff-4283-8255-cf8ee6f453bf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BMEX&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811525625	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEamO6vkrHKwegCjAsWoxdlyUz9eb420Q.%26dt%3D1779989624549
+.netflix.com	TRUE	/	TRUE	1811525625	NetflixId	ct%3DBgjHlOvcAxKFBJU7yMai0iBOR5DtpNVdxm4rn3cKJC_7lNeuOJL6lXx2ZeTIl-zAz1KN6zx4jPX6D8TG6ropPbTw67MBd2n3Z15tAiz4eL3bPfadtgDF_K6a-sAGUvOMHH53tQttPGimWF_z_P2jh_UMv8Zw4EWiRhtyijXSKBsqTyKKCwqQb6QzIXuQ3SkJ3BLT3mVNNXcnPHmX2o1JXt986NKKJ_6ngY98M2O9edTetDtUd99iY65FJQcqShaEeZGOTjgXpm3gVAv7EusBhVW2YpdY4qVfrLZhdQFw7VotBajBzlYj9XtYCNL2Zeiu6FZUPfNGdM_PnwoMAPYMgTHAH_tB-WbPaaIJhtnI9Q5P8XNZXl5Vd-O9B6o8NOYHGkwO7WtKfYrGvPFMXaC7ybYDksu-fhlq8A1lk0_pNBpAfaEb84rIIB_6aFE6A4RW1FJfE0TO1RmfqSalYYjWMIoSHZVfXq13NfuGVZuIfyvYxVLSLDNo7Sng5g4K8BvEJ00iR7gAtmu_GE0Z7UP-totL5jtIgKG4qxNWiB4RUfnf14YDAwdJd3i-S25Iptl4itBedppgURKM6fTAEFxmgYJ_S7FOeZE7W0rRT76xDvTqFEAm5sbZyO_zqeLa6YzYBv8BbHBX9m9BKB1QA3IpmobsH0i_Dugo1YIIafS3M4jTUJHHI06veuFRn-j96PEYBiIOCgwnS6DI50zYcw6_xJ4.%26ch%3DAQEAEAABABQ9NOV--rBPcWiIBzkkWAjt9u2WAT3yang.%26v%3D3%26pg%3DKLZDB3MVGRHOJF5Q43G4LHDZJA
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	66d373b1-5a8d-4d05-9591-40f50c832de4
+.netflix.com	TRUE	/	FALSE	1787765625	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787765625	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787765625	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

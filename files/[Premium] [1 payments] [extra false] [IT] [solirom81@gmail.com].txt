@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	2645124752	OptanonAlertBoxClosed	2025-04-17T22:56:58.177Z
+.netflix.com	TRUE	/	FALSE	3581883456	nfvdid	BQFmAAEBEO6nrR-N8ub2xenK4mkNWGJgh2Go6zvLrm8J1JmCEc-asJjDWau7yqgEUashhpSjW6o4CR3-bm53Kd7qiRKLtXoAoM6I6BuZ3XxJ1pFTb3alolIGeC2gFNZMhq0_GG3n2PSNzwTNbDtUvTVXnjoKUCMW
+.netflix.com	TRUE	/	FALSE	4108915065	flwssn	2648a3e5-0d7b-499a-a4c7-6b6a3ffc1083
+.netflix.com	TRUE	/	FALSE	1783545571	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	2688935239	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgenpEc88pcjVS1GyZeFkKTpOHt78Gl1M.%26dt%3D1766449264641
+.netflix.com	TRUE	/	TRUE	2688935239	NetflixId	ct%3DBgjHlOvcAxLpAzEo1sxAGdEeNaS7OD3TOXN9I0DSt1Tg0411ryLNHpraAFvYyj6EdIDu1Pc606GqiJzxgH_yktc1Os42JKNMUQX3Zv5y0wOgM1srVkVJo9xVSOiee8Qno5antlQknNN9_h0uEWY914duFM3uKzI0AI1_MD03g3ctE1ls8GCE5acS7BJc3SDuIQnn7yNa7VnjGbSWvYSsCds6TZNRKAS64N3FytlSyj5kSEABfcI10-8_6zDZ54ux86hAY9tdxlkrTWuJZ07WSBU7kdD1eBdimtBExN1iEUErSJ8s22i2TcxuXE3tKGd76pPTHM6FXFRKNhG9DKvw5mjHBGv4qXDrv4VkdM6g045K-R5LPEhYxXGq-nBzqP3ul8GH_erm6yl8mEmL2KKH_dUkVus4_Y-Z6mrGOqJd3ejK8FesSr9akJRI3lfcMuemiqqabgrc1c5G9mczluvpB1aAeoyR4ZtHR6iAREJhflcEu75AyU64CRtny6gLzu82Z1RKCScwEL6AiFreRJVByXI5PnX-PpxUVa7PWjaKAdaLcDEDW4m-WSpxSGxRq37tMJL17WlbUBkymWAlKjL4wTh6j--ATNB3mDHTSPTlgDD90W8sRkLSKO1rL39yktHx3l1BlsnPjr6cFnRT7NNJLYkHcBgGIg4KDD-oP-pUN_L2ErytwQ..%26ch%3DAQEAEAABABSz9EHQ1EpDgX-hIxw0HARB59-75z4M0H0.%26v%3D3%26pg%3DLZGDUOJ6WRBD7MCY7O6UZQGEK4
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	deacae92-4960-4e7d-9954-da73e40ddbce
+.netflix.com	TRUE	/	FALSE	2688935272	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+23+2025+01%3A21%3A05+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=38ce0c9e-ddb9-4603-81d7-52751929b12b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B82
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

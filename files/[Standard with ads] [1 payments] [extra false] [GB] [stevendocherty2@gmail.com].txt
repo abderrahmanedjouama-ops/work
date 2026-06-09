@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1803913410	OptanonAlertBoxClosed	2026-03-01T15:03:30.807Z
+.netflix.com	TRUE	/	FALSE	1803913509	nfvdid	BQFmAAEBEDJpR7b0SR-w_C3Pxd4UtLxg1GZCNeXuyWlvku-TS0_AnH4alUkIWMyGiXLJu8oeao0RTeMZdglHfU5LM15VVwFc0XOmD90D4v2FeXlLELGvualLXxcRqS46Pat_lAs9LD4g_2FCuECsmaV0K3auuL16
+.netflix.com	TRUE	/	TRUE	1813848478	dsca	true
+.netflix.com	TRUE	/	FALSE	1810865469	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+03%3A11%3A09+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b407723-d287-4bbd-9a9b-fc1e6fbd669a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772377411693&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	09ec4789-d94a-45cc-aae1-4c0908d764af
+.netflix.com	TRUE	/	FALSE	1787105470	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787105470	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787105470	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1810871138	NetflixId	ct%3DBgjHlOvcAxKEBOJqfjz-sLZx2Hbg-9SkM9H4SkYe0DcHYYTSoY1fDwFFKx21stosfIbmbPslnn7X59Nq7oC5ogxycqVf-QNtSpLS-rMRUJ_3NLkMYLUwGol8WSPDqo2iv_C6TwnjDgUDo2ZvvB8Dt37HZkhweygQq_IEbgS7bkP4WM1rW5IUgwcyVQdffPYUtjbC2Le8KJjwasz6Bq4nXOOibL9zeRgDb69U7v-z9RgwYAno4thZ2Cw7SVgajtWs51B_if0Cw73Sw63UWVEojNCuEGWK-dtLuURc69RY9noU6MPujvtA5fO_-3cgqoG4VBaDVSLL0ri5Jwmw4myppqYUoPsVITqspZDk1jy3moRmk23wEqlEhbEnuwcWrXiiQkK3cXZ281Gr3gAHeEg3cPprk3OZshL9CX-hg3dKDau4PIYWMEez-Eu6aDlbpk9o9XC234Es6CGb7MpvurIW92JWTIpJtvb9aG4_6hTtVF7kLWhU2bB07MjmVI_EiBnvwyH7tctDbIXGTzZmh3n_d_SV5QbrJBRoQOAaWlxu3G0ltxkb8AOw3YsFz_DoZ16Wl3Cnx_aeE2DqhklWS5eNUvheSXQbdG7lZtp8xBkOGJ4VcwpCSF-6QMdWNNjEDvCqiMh1uh_7dev3enKob4Kdiid1HHZ1KiwSwI5L2SRLQ1xXhJ2w4XFZ5XoyM9X__BgGIg4KDHg3Gcf-5D_5ClOTQg..%26ch%3DAQEAEAABABQIM38wA26O5w2CR1g-AQUEZ62XMiaubLY.%26v%3D3%26pg%3DKJD2ECFGWZEZJBIEYTEOZ4FCWQ
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

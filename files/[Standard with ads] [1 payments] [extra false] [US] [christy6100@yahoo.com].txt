@@ -1,0 +1,7 @@
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AmxTB5LOLSuccq709Ndrq3pfav5MSVgrEltIdddi5LhVjfnYG0eBbscHr83Mb_D22eGJdvFDnQD2gt7K3foaYRhEMsuZuuJainpJ9G9gqOGSZ4WBxOIvfBN16dUvFn5nH0QtLhjm-Cxbpl1QUi0GaiNhzPWkB0ukBVbjqfRss_kh4qa6dgtPQ3lh6g-lTIs0Vh_7-2iYICPX7ZSrwv_jup7rv3phFOHbK3HSVBy31axvBiU_zzodgJsbCKnip85TdklrHqARrLhE3U8XFGhdaepSJ7XVJqXpWDpkiJTdeW3PTnGB9dOHjHQLlIY5XSS8UVTaw2WyN76zh3M5bhUU88nEMFfapaochG3P70keAFczpsR1CdApIQEeKDKrrJiiPALB_xYVjEsPdkfV2u-yu7j-0GrKVQZFhCryUfsZJeDU-N8pPVT2br6q1OcfkftD9zPtiaKu5Gs9aBbGMVWnNHAyw312C6MrVZd5LzvhB0mWSdyHhhy_whgGIg4KDKw9t-TQU-PTq6dWOQ..%26ch%3DAQEAEAABABSb4SkdLXA_wC8Lsx4-A5Gxq0lbnLAMKuY.
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	4036bdbf-549c-42ef-b902-94351be18372
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBENNi5FBwXOkdc1Wf5admCz5gtWgh1kCtIFadxCAn_zFQa0QqwEngK-l4LCj_v22bdCGXKOjLuBj5hTwenh8kaUHkC21hgVQiHI84Je95XIppIIh8avMJC85eNSNmTkExSchAmIvn5GClcEr8NBp6c871
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+16+2024+00%3A12%3A40+GMT-0500+(Eastern+Standard+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=080b4477-4fc1-4e34-9292-0a99b38471da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

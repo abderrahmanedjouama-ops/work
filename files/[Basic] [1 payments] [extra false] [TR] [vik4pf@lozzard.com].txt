@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1800726454	OptanonAlertBoxClosed	2026-01-23T17:47:34.284Z
+.netflix.com	TRUE	/	FALSE	1800726774	nfvdid	BQFmAAEBED1X96JpEx9d6ApMbx3CEU5gMRCG_gMaF00-_0y2xDsiiesVHaVmceyicktOtWxeKpCL5eEPsD96K9FoIDVvTzqXraahQl3fdqfT9S4644m_qWTceuW3jbFFHClv2PAa8gkgrN1Rkf7hq0U_E8Zf5Nyz
+.netflix.com	TRUE	/	TRUE	1809102170	NetflixId	ct%3DBgjHlOvcAxLGA41fRrKHCKuERBh6FRHWeac0L8o7DMLhuNeC4CfXYVsESgrSSCfM0kbT0hxGPzXyxDypXgxFdMHF8YXN4scpXQRUdH5KT-ui3lRArr7C3fzidh2PT1s_Yn4ofq6YdBkM05mBbSZcO1AuHnE19A4pLt6OwZAjUhaaKBl8QphjCQNJwvE3Z1vYahK5JopXq10ggBVpT9XXbnIjB82w-wdBjb4nbODB2o_l7I0Tvmp20a1nC7ZC5h_5dK18hKDpJmVyj5FXeSLqnXpjvLprVe9Xsj_EdXNNs5iB6-qM9M9FfbPO5swEHb__4gQUNoTNcrnish7ieABQXPVkgWliyBwDcLbKmLkAlzAcKgcxSpF5-sxS10YpPiSxXUqDSKlLpxBnp18tEEXzN7TFxo-p6p9R0aBgqnAURCPlfo3ZyjjabK4DLTt1MoEthAZVOGOt5j1_w-Bf85-2tW3fz9p3J5J1POXHtiHd8ckDnP9g4oNUJ1dPxkj7nKvakByyHVRcVQHXHGHUn09p4GTgXXhmCdsMWgHt4BhJFt2_wI7L9dhammaNhVPb-QtpA6KBM-ZJ29U64rV-L0p3S3FU75E9ULe-Po_kTyrpWK8YBiIOCgxQJ0AovVJjFtvEqTU.%26ch%3DAQEAEAABABSPPY1NcjvUu1F6Pdp4rWTP3F6iQHZBAsQ.%26v%3D3%26pg%3DPGGHTZEBCRBCZPVZZCU4LCVCXE
+.netflix.com	TRUE	/	FALSE	1809102172	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+19%3A22%3A52+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ce49eb8-743a-41a0-ae1e-30502a856206&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769190455074&geolocation=TR%3B34&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809102170	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcF_AlnLUHjziSwsb47RX2K0gVOZIwMW8.%26dt%3D1777566172077
+.netflix.com	TRUE	/	TRUE	1783545584	gsid	62ffb4cf-a245-4895-9b81-6e394f294bd6
+.netflix.com	TRUE	/	FALSE	1785342170	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785342170	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785342170	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545584	profilesNewSession	0

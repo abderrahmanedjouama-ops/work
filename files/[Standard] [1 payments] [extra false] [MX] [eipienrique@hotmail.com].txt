@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1782092062	nfvdid	BQFmAAEBEM9yL_t9TmuemWzsZAgRRnZgXg2RP_95PJ_SR6XNAcCBK78-6Z5pFksdY-50bkiMFaFO7AdsZIrBIqB6CssTcoU-_UxYo3QLkfKR51J_sDk-zabmdluLhe6632kZ7VSSMpi8qtze7nLUcAKtiaKDwDUD
+.netflix.com	TRUE	/	FALSE	1784501145	OptanonAlertBoxClosed	2025-07-19T22:45:45.161Z
+.netflix.com	TRUE	/	TRUE	1803943836	NetflixId	ct%3DBgjHlOvcAxLlA_FXo3SbQTN9gCUogoHvW7AXHoCPZp2NxfZlyuvLb8zV6o5v70d_IWmcg3Wwa2ajeZXBnHFkkzKcSlI1JK-dkA9XUkwlBwrzihGWK2iV13mnsTvKr_P6hS7eck6PATPGBde4-4IBO3o_y2BrnAgAPH9rgCnWBhpxt0IuFrCK2YrVhkvC4tO6Dq675Kj92OQ0AkuA2uxob_f9HddxzYuLbcOl-ksbx1igAxd9P2V81tP8oVqB5QdXvbrS3Vw7AcNptvqlMcfP2gt9HHCgCdF5-7SYsvdiS1rSg5kI4WtLhFpV0jpGfqzdGXsxTI7l3eDYwmV8GW2MuJxIvLGIDxv6eTvAn2kcz2mP1d6-4Jetg8bhq3GqFYn2hr7QwGM00BHNQ53RpT2nMshDBEy3smLUncweg9ZmvEvJvQCN_lFUx_tdTiLrQUy0gq0pD34B8JqClrQpY6eXs9DKgWxw13hT7_ViIK8e_F4wo2OezGSJvSP4EqR0Yd4luWYV6xgn9Y8UP1p08OC7mAB-ioYZgdslPDUCn9aSZV6dUj7V8rRvfY6Zi1hSuha5Tk81bNJv5uMqIsjLFdPjpbI06wcP8j8CHWwhGiulxadZcFZxg3CkrQjGK1zLszjiU4eB87jEStyWpWhoqjbuGAYiDgoMQmfRQAU2M9eQNF47%26ch%3DAQEAEAABABTLUSYuYPFJFlu4235r_Qi2kxNZB0L1Wbo.%26v%3D3%26pg%3DNSATINGTP5EZ7CPZX37CDUTCKE
+.netflix.com	TRUE	/	FALSE	1803943834	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+17%3A30%3A34+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=168899f7-c2f0-46a8-b126-d4c3be7724f9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BMEX
+.netflix.com	TRUE	/	TRUE	1803943836	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIBAKUc_FT8B0W-5LcTyOwDHKegP2zIwY.%26dt%3D1772407837026
+.netflix.com	TRUE	/	FALSE	1806967831	dsca	customer
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	c6fcb9fa-e795-4fa3-822f-8ab7c8100b04
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

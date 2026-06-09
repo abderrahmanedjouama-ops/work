@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1788279385	nfvdid	BQFmAAEBEB69x2URbgsi8baqQegKSCpguRFyDhLg7w5X-FxqDSSP9lq6VLELaHP-Slo0I6pozgCYz-WgqwaKF77LSdbWNBkrQ-bsi6VMel1njjDCfwBmzwVs1TaNrRLfmJv6-BpzjI3-QI5ISekBSKJyE5hCyVv_
+.netflix.com	TRUE	/ca-fr/title	TRUE	1805060437	dsca	true
+.netflix.com	TRUE	/	FALSE	1805033707	OptanonAlertBoxClosed	2026-03-14T14:15:07.192Z
+.netflix.com	TRUE	/fr/title	TRUE	1809846416	dsca	true
+.netflix.com	TRUE	/mq/title	TRUE	1810049815	dsca	true
+.netflix.com	TRUE	/title	TRUE	1810049816	dsca	true
+.netflix.com	TRUE	/	TRUE	1809453827	NetflixId	ct%3DBgjHlOvcAxKGBNxzFGkOrOVdzF-jWKGw75mipl6rhO7f30n-Fl6soydezyszUgCIxkwXfcVRvFh2cvVjXvfqjGxzLBCdhgEIVsakpTE7rwqXz8zuausXSE3c5464PApVIL-D-1Fc98ESfz47kWzLo0tjgBUM4cmT4AbhUrwDotI0N1ebw8i6UO4mdo0CjAYk8WBNlbhbEOEv8s-Dg4dxdy1rjg4BDT5KdM5Ax_SSz4b5YpGT09Xum9OQ5AChkYvW8AxG0K6Fc3coZKLAtOF8zhGSGlHklPYqMN4eom5YSl3a6Rqa2iQ_7JDehQ2dkpoonQdw199IhmGfzfAa13LXL7iIo2UdtsDKkJYzH1aSzV9lzi3eJUYm04HFXrBqWPMf7Ynk1lQ2Z2WFh9oyNfse9CJXfdBAP7v-Pm8UTlRS855qo7hNUzhCYXo5m7gRKHWUIgKOP4uU1u7cdlLDJv6h_ECVYcXXhJVpxGS4gmrpGsqYgXuApBu00UFGQbOD5YXB4q2EPvwVraAm-1jQxWf-NJIakJfEIyTCSIT7ignYdFTZCsGT2T5oFz1oRNRB20CQoAppXpuMux13SY7tGVwwDOdsvVo5rtfk5nFxQ72uRT4OPyQnsLwLSY9FwjhZfZkj5ICj93hXUTpQdlPk9qTt6A_hpqU9sKF1KXlAGVMt6jn9hMJcVcMqKtN8gu8560RrGAYiDgoMWdRZwqQB3j8JnRdc%26ch%3DAQEAEAABABR7UdeWSO_BLIbPuw-StaY8wwmLgublpcQ.%26v%3D3%26pg%3DOG3BYZO77JDMXBEPV27IX53KPU
+.netflix.com	TRUE	/	FALSE	1809453829	OptanonConsent	isIABGlobal=false&datestamp=Mon+May+04+2026+20%3A03%3A49+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&consentId=5acf0a48-5e3e-46f5-bfa5-affa3ab5a929&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=FR%3BIDF&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1812477828	dsca	customer
+.netflix.com	TRUE	/	FALSE	1785693828	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785693828	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785693828	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

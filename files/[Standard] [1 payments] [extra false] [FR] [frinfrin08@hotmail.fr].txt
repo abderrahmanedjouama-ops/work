@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2024-11-27T20:18:39.813Z
+.netflix.com	TRUE	/	FALSE	1783545571	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	24a15d51-87b3-4167-90b8-80c0c0bf93ba
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEJeEpQ6kw1qrdAdoUBVns99govu_gVGU17OVdBUtnLaPECGuXrphqC8dGSOT_5WCAunCDtdrTqWWnh1g14z_K1IVIC_f4mFkXOWYfwO1X0QSNvveINoJOqsSaMY-TvXzRwORRz9pCSy1zprqh9KnOrVk
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7ArPYD79aJOqTdCUD9P_5Lo9u26TqEn1u6Pwc06ZTImCBKt2m6jeVJtm3xSDyjNGI-kPAgIM83pI0kpftVbxR2_OqP4CMDLjKl0FZy6JQkoB40ibmDVP5uulpuWIKipQy4b15fc-sCK9RcQVlVTtW0HSs3fITqduWr8_Eg2lpTjK4dvBXIANwjfpaeU03fjRsTPQYjtfWr-StPBTtO2GHvQuPhF33jZNvKaLUJ-DVaOYqMxg9rFRP05qOgnIdkbSmz7wqo6qdU8DULwlltBRjGM_DWdJXzo7w_xcLDI8aljps9GIY9DowS80GJEa7Z_hVXFd-cijfAc3uPWMSICDtH0Mv_22_H4HFtXcASD6YNf1dMp-N7NqIFAB1hf2iOxsor77VggTHu6ofICaeBDot-wh9d3mChVwU4y6uTaJDlH0h1wvqHvuARWs3jp6gtUxOh4ep6wcAa3Nt4lP_PxvMGuONDsweLnMKEJzAF_j-nk_yOEf9WldxR11e3yIYBiIOCgz2ge_v4S-nWKryJTY.%26ch%3DAQEAEAABABR8m_jQCBXh41GQexzhos-_E5iCxgfCKrw.
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+27+2024+21%3A18%3A59+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ccf3d42-4060-4a56-b93e-75451b611e32&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BGES&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783545571	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0

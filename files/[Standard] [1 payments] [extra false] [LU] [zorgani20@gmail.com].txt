@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/dz-en/title	TRUE	1810483975	dsca	true
+.netflix.com	TRUE	/title	TRUE	1810483977	dsca	true
+.netflix.com	TRUE	/	FALSE	1807459974	nfvdid	BQFmAAEBED4Q8oShfdjlymhDEN11iTlgFEQDb106raOo5R0A20IUL-Du0SzWT27-n11EsA1xBKqkIAh5azi4SOyNKF0cHecd66ULMhRsQzm1dDXSdimyCWNKsOXfvZ32zXKahdPh7jNXPPsVaniKN6D2yQE7pqkE
+.netflix.com	TRUE	/	TRUE	1808692991	NetflixId	ct%3DBgjHlOvcAxLpA-n0TWGfKTAlR_TUaDG3l7_xQYXbpD6d4JTX03oQoYbp4zLB4Hh2zzYffLsDeM_HqJilx2rz_pFY8zMDaewt61BNYpTqGyNmvmuzTUTAbqesuVycfAeaUfKwLbbHBnHHXlJRm2wBvBm6gnHCHtmOMD6bL8mDQMJq4hJfGI67GIvqxcDQwDe_6-TkAH7RP7dmjCIm9aibhSudJibQC56aQDYEupsrdUjKXkcLDiQpySBI0mepjeQ5DjIb5Vw_gsZIa2lMD8_tlaHAKKfJyb0s_bmNUY26j2wJ6D5t1oJ-eyhecHZYwGwtLqVdCD6ypx-zYsvApdHWtrKJAzWlzIQpxyIGXnVqtxb_wEQxjervTbW-R903x_zMJDfYAf097a_q8Be76HsSBiTnBZM279FI0sUP1bgFVyS407Cmpytv_xmbD1hoB9PY6ZTemy9AAR51PQVFNdYEJCPVD-_h4xWWFj4YW4rSP64SXjMVwaEWpSD-GlkpdT3kBZG_Cb39t4FQNB-3br01fkStO5yUv9xtkChjNKCgUqgyqxQsdTlZruNaGTC38ESfvlACorhyI9-07jcFs_c6jSShK-UoVUttjtGbFI48GnoZ-0iCEoBGF71vRB1FK4O9Rw_SZwig97yFlo6I9skV4ZOjVBgGIg4KDEw096JLdm248AoDkw..%26ch%3DAQEAEAABABRAYARGWWqW1AU05ThDIAs_vTHNZSdDz0w.%26v%3D3%26pg%3DPW33ES7O2VHS3KXTOLAGLFBRSM
+.netflix.com	TRUE	/	TRUE	1808692991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQt3keN9m_GvECA7MbQZ47df2N5_OD5zow.%26dt%3D1777156990473
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	5f54e318-2cf0-4f21-b5c9-dd88d93db55f
+.netflix.com	TRUE	/	FALSE	1808721766	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+07%3A42%3A46+GMT%2B0100+(Central+European+Standard+Time)&version=202604.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=9b381158-d5f0-4abd-8959-635dd71cd3aa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773087506310&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784961763	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784961763	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784961763	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1789971930	OptanonAlertBoxClosed	2025-09-21T06:25:30.385Z
+.netflix.com	TRUE	/	FALSE	1795858829	nfvdid	BQFmAAEBEAdmTfXTJnImt2aoRJmDf8VgpaFDTfanL4hTl64YwFfcb6oKm1BRrHMS6434C09vTqVagvAVaGRMvyizJ3Xbb20UgNXxTR12InnQY1uQ6asKf45lXH9Asfy-XTFdEseqs1DtY7NGTew9wU6I9-m5tkc3
+.netflix.com	TRUE	/	TRUE	1808636852	NetflixId	ct%3DBgjHlOvcAxKFBIfSuidgRCI_0qCv14NHZMyJscKIMwzPzxAfVxCPIqWNSuDgWAHuSEqJDI92pzwB7qOJK1mECy5Gy0inFF2Va6Uqva31H5JKY-oKXeLAekD8yME-h_AUgs3EhgVotldESvYnC1sOaraX-GKtTg9XbsV_aILpOdhWUkD_LqcPw67EZWb8i_QSiZ1WS-K7b9qVCOhHR1OVVpsVsh7DKnY6MiosSGjGre-WN2B6ZmyholVcJf6NrMeKFb_VB0k7ewXGxjtVB-uZyrKzIqX1HI057hYg6PKDYe8lOV0ZoGAiWhP--0yGKomqGdLxv19V8K8sfCz2CIUf4w8HY-xXmsnBKKxcC18050G_vfvy0r_h5KmSKbIKhzAAxpceCEMHQCcCY0f4nIrdq8Rjk4fl8r8mI_l0KEkFMDRrlVtTIP_dbjFzpv-4b6A5ul__IqnXxihzeeDGIcZWe9tI13JtgSZdnC9jbgS3r4rkoudnpvRXpkrBMhIS8Ynkqh_3Ebt37Yl85JCfLKOxFKfrhpxyDfo45Wf3D7e6fR4K2WOxPSQ0frdly6P4YCqj8bLEYYLnFFu-Kr9UYxzDy-flQ5pku-RUhIOGKyXme4D4ULnHKwwwGf2jS3X05fmIekE503GLRNuDrvSSGPmcG4NGKGpaJR-FGiOsK5nusDgyFMaYUz4_5B8QgJf-XVcYBiIOCgx4kp1e6fJboP0JHTc.%26ch%3DAQEAEAABABQrsN9Vg0XXXCyHOzBfWeX5y61Hb91YR2A.%26v%3D3%26pg%3DBHAUAL24QNEBVIA4XN4QFDJVBQ
+.netflix.com	TRUE	/	TRUE	1783545584	gsid	625cf477-f4ba-4fa0-b9c7-58465703f947
+.netflix.com	TRUE	/	FALSE	1783545584	flwssn	a44b2f95-69f8-40ec-9528-1cabe929b13d
+.netflix.com	TRUE	/	FALSE	1808636930	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+12%3A38%3A50+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=03640970-fdb1-4048-805d-7ba78df8c2e2&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3&geolocation=NL%3BZH&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784876930	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784876930	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784876930	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783545584	profilesNewSession	0

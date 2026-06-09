@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCAzvNc7K9wzehKho0OWFGY80KKSC3a7Egy9RgqkNphLC6dYiRIw_ncYQcH5wZMy8zz_DQcoFdeiOvZzBUl0jjdkRuXmzXwkSN9QMgr4m243w7GKPIFW3TdNodMaqLZiyWOhKm9zBXUL9JENvQ0vIRv2dK_WfSKStQ66LiKBPL66-7PeE2HAgJ-kEhwc8ymxGxKYwFTL9AHosGTiDOxDY7iAnQ3ssFe0nPEcIoU36633CjIpxIK1jsorwUfaDe1bsoous4DYu2qoC2LwoU97g9mTDd0zNgDDTBk3roesOZwTV_-ypz9sljOR5IMiBQZGQiw2GK7n_TIBoeBveHhzLUBfWYa9MuJVZQnOzTJ-lc3r0yvzotQsCMutt4qO7wgiz8UuuhnXLTUJt52Fc2kPemI9oIy6IK9Ekvyzjg5r7YTHsk63ce4tT6ceLvvgktBFju-yoaB1SuQnonjwMQyYRsEaro3SOheMGaYhz4Ebgnr0Vj8_OixrioMC3onURNAviNOChpGAYiDgoMvXX4niIHKxzxgMXO%26ch%3DAQEAEAABABQPTSpWGtDmUHJwL6I_zY0VbrQQSU2wlz8.
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonAlertBoxClosed	2025-05-23T09:00:31.566Z
+.netflix.com	TRUE	/	FALSE	1783545571	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+23+2025+11%3A00%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2eea980-1532-4136-9291-687e54d6f2fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BHDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783545571	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVRyfhRVhJQs2mYTi0oc7_b-lI9LpdEz8.%26dt%3D1747990835117
+.netflix.com	TRUE	/	FALSE	1783545571	flwssn	947e7b77-e322-425b-add1-17efc7e66623
+.netflix.com	TRUE	/	TRUE	1783545571	gsid	0429dd89-9586-4601-9c04-b52d8de07bed
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEJwdXQ7kOufjb-MwZAz3wWVg0tnqGSjt_13_6vKJHu7_w1seCEgUpkIN3Eu7M0ErE-nCqRd4LZv6wnd0yNmvmLJjbcVby-gGCiQvdjNwrtkXhgDuNf-Q2FtErnk91friNOJV7yLhIosiDFwWQGLEYp7c
+.netflix.com	TRUE	/	FALSE	1783545571	profilesNewSession	0
