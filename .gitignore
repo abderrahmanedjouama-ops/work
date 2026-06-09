@@ -1,0 +1,27 @@
+# ملفات Python المؤقتة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# سجلات وبيانات المستخدمين (حساسة - لا ترفعها)
+bot.log
+user_data.json
+
+# مجلد الملفات الكبير (لا ترفعه على GitHub)
+FREE_Netflix_*/
+files/
+*.zip
+*.rar
+
+# ملفات الويندوز
+Thumbs.db
+desktop.ini
+
+# ملف التثبيت
+python_installer.exe
+
+# ملفات السكريبت المؤقتة
+clean_files.py
+verify.py
+scratch/
